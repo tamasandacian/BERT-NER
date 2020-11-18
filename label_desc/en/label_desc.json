@@ -1,0 +1,19 @@
+{
+    "B-tim": "Time Indicator",
+    "I-org": "Organization",
+    "B-eve": "Event",
+    "O"    : "Other",
+    "B-per": "Person",
+    "I-per": "Person",
+    "I-gpe": "Geopolitical Entity",
+    "B-nat": "Natural Phenomenon",
+    "I-art": "Artifact",
+    "I-tim": "Time indicator",
+    "I-eve": "Event",
+    "I-nat": "Natural Phenomenon",
+    "B-art": "Artifact",
+    "I-geo": "Geographical Entity",
+    "B-geo": "Geographical Entity",
+    "B-gpe": "Geopolitical Entity",
+    "B-org": "Organization"
+}
