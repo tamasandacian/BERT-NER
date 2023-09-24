@@ -1,0 +1,1772 @@
+message_id,text,entities,annotation
+<18050053.1075859962876.JavaMail.evans@thyme>,"Al:
+
+Per my voice mail, I have left a message for Mark to give his input.
+
+I think you should revise the letter as follows, subject to Mark's edits:
+
+""Please be advised that effective July 17, 2000, MGplc was aquired by the 
+Enron group. MG London Inc was part of the MGplc group.
+
+Effective October 9, 2000, MG London Inc. changed its name to ""Enron Trading 
+Services Inc"". 
+
+Also, please be advised that the Financial Status of MG London Inc (now Enron 
+Trading Services Inc.) has not changed. 
+
+If there are any questions please call me at 212 715 5845.""
+
+
+
+
+	Alfred Pennisi@MGUSA","[{'word': 'Al', 'tag': 'PERSON'}, {'word': 'Mark', 'tag': 'PERSON'}, {'word': 'Alfred Pennisi', 'tag': 'PERSON'}, {'word': 'July 17, 2000', 'tag': 'DATE'}, {'word': 'October 9, 2000', 'tag': 'DATE'}, {'word': 'MGplc', 'tag': 'ORG'}, {'word': 'Enron', 'tag': 'ORG'}, {'word': 'MG London Inc', 'tag': 'ORG'}, {'word': 'Enron Trading Services Inc', 'tag': 'ORG'}]","[('Al', 'PERSON'), ('Mark', 'PERSON'), ('Alfred Pennisi', 'PERSON'), ('July 17, 2000', 'DATE'), ('October 9, 2000', 'DATE'), ('MGplc', 'ORG'), ('Enron', 'ORG'), ('MG London Inc', 'ORG'), ('Enron Trading Services Inc', 'ORG')]"
+<31623156.1075845089208.JavaMail.evans@thyme>,"To all,
+
+I visited with Kam earlier today to revisit the positions in the SE book and we discovered the following:
+
+City of Madison transport:	transfer to Pete's book for 10/01 and forward
+MGAF transport:		write down 2007-2020 position.  Loss of about $500K - Scott as we spoke, I'll take the blame
+LRC/Stringray positions:		Kam to review and explain
+Annuity:				Origination total of about 90K, net with 500 loss from above
+Alagasco:			Tammi deal, Sonat Tier 2 position
+Others:				As I explained to Kam, any gain from closing this book should be transferred for the
+				account of Jared Kaiser
+				 	      Bank of America
+					      ABA 0011.....just kidding!  It comes from sitting by Sandra too long.
+
+Kam - thanks for your help and let me know if you need my help.  As well, please reply if I have not covered all issues.
+
+
+Regards,
+
+Jared","[{'word': 'Kam', 'tag': 'PERSON'}, {'word': 'Pete', 'tag': 'PERSON'}, {'word': 'Scott', 'tag': 'PERSON'}, {'word': 'LRC/Stringray', 'tag': 'PERSON'}, {'word': 'Jared Kaiser', 'tag': 'PERSON'}, {'word': 'Sandra', 'tag': 'PERSON'}, {'word': 'Jared', 'tag': 'PERSON'}, {'word': 'City of Madison', 'tag': 'LOCATION'}, {'word': 'Alagasco', 'tag': 'LOCATION'}, {'word': 'Bank of America', 'tag': 'LOCATION'}]","[('Kam', 'PERSON'), ('Pete', 'PERSON'), ('Scott', 'PERSON'), ('LRC/Stringray', 'PERSON'), ('Jared Kaiser', 'PERSON'), ('Sandra', 'PERSON'), ('Jared', 'PERSON'), ('City of Madison', 'LOCATION'), ('Alagasco', 'LOCATION'), ('Bank of America', 'LOCATION')]"
+<24135778.1075846138474.JavaMail.evans@thyme>,"Beth, Mark - 
+
+I think we are ready to move on implementing flat screen monitors in all of 
+Enron Building passenger elevator cabs, i.e. proposal is for two 14"" monitors 
+per cab, one for Corporate content, other for local Houston messages.  Will 
+try to flush mount them in the stainless steel cab panels, for a clean, 
+attractive look.    
+
+Technical details have generally been worked out between our group (Steve 
+Woods and Harry Grubbs) and Enron's IT Dept.  such that  we know total costs 
+are below $500K (more in $350-400K range plus whatever temporary, 
+non-elevator monitors appropriate for Three Allen Center occupants).  We have 
+a 3 month implementation schedule.
+
+Content can be anything available on Enron's LAN (developed @ the desk top) 
+or any video signal, i.e. Cable TV stations, tapes, etc.
+
+Let me know next steps.  We can discuss funding sources.  - Bill","[{'word': 'Beth', 'tag': 'PERSON'}, {'word': 'Mark', 'tag': 'PERSON'}, {'word': 'Steve Woods', 'tag': 'PERSON'}, {'word': 'Harry Grubbs', 'tag': 'PERSON'}, {'word': 'Bill', 'tag': 'PERSON'}, {'word': 'Enron Building', 'tag': 'LOCATION'}, {'word': 'Houston', 'tag': 'LOCATION'}, {'word': 'Three Allen Center', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Beth', 'PERSON'), ('Mark', 'PERSON'), ('Steve Woods', 'PERSON'), ('Harry Grubbs', 'PERSON'), ('Bill', 'PERSON'), ('Enron Building', 'LOCATION'), ('Houston', 'LOCATION'), ('Three Allen Center', 'LOCATION'), ('Enron', 'ORG')]"
+<9457688.1075861461211.JavaMail.evans@thyme>,"Dear Jason Wolfe,
+
+We are happy to inform you that 1 item(s) you have won:
+18 Big Russian Stalin Lenin Political Posters
+(Item# 1013259638, eBay auction(s) end date: Oct-05-01)
+is mailed to your address (parcel receipt #70231).
+Date of shipment (postal consignment): 11/14/01.
+
+Item is sent from: Central Post Office, Moscow, Russia.
+Customary time necessary for delivery from Russia: 12-15 days.
+
+Hope you will get item(s) in time and in good condition.
+
+Would appreciate your notification about receiving item(s) mailed 11/14/01.
+Would appreciate your positive comment in eBay feedback regarding our service too.
+
+Should you are interested in goods of other kind(s), let us know.
+
+Looking forward for your new purchases of goods we put on eBay auctions.
+
+Best regards,
+ Sergei                          mailto:spartcat@mtu-net.ru","[{'word': 'Jason Wolfe', 'tag': 'PERSON'}, {'word': 'Sergei', 'tag': 'PERSON'}, {'word': 'Oct-05-01', 'tag': 'DATE'}, {'word': '11/14/01', 'tag': 'DATE'}, {'word': 'Moscow', 'tag': 'LOCATION'}, {'word': 'Russia', 'tag': 'LOCATION'}]","[('Jason Wolfe', 'PERSON'), ('Sergei', 'PERSON'), ('Oct-05-01', 'DATE'), ('11/14/01', 'DATE'), ('Moscow', 'LOCATION'), ('Russia', 'LOCATION')]"
+<26484226.1075855280232.JavaMail.evans@thyme>,"Scheduling Issue:	
+
+	1024	MIRANT(Rala) told me that they could not schedule anymore transactions with me.
+		She confirmed they were defaulting on their contracts.
+
+	1050	Informed DYPMI(Katherine) that MIRANT was defaulting on their contracts thus preventing
+		me from fulfilling my obligation to DYPMI.
+
+	1200	Russell spoke to the DYPMI trader to discuss LD protocol.
+
+
+
+		Option Issue:
+
+	904	MIRANT(Blake Mason) would not accept my exercising of an option.  He confirmed they 
+		were defaulting on a firm LD product.
+
+	1051	Told WESCO(Sherry) that MIRANT's defaulting prevented me from fulfilling my obligation  
+		to them.
+
+	1200	WESCO(Sherry) informed me WESCO was going to LD ENRON.","[{'word': 'Rala', 'tag': 'PERSON'}, {'word': 'Katherine', 'tag': 'PERSON'}, {'word': 'Russell', 'tag': 'PERSON'}, {'word': 'Blake Mason', 'tag': 'PERSON'}, {'word': 'Sherry', 'tag': 'PERSON'}, {'word': 'MIRANT', 'tag': 'ORG'}, {'word': 'DYPMI', 'tag': 'ORG'}, {'word': 'LD', 'tag': 'ORG'}, {'word': 'WESCO', 'tag': 'ORG'}, {'word': 'ENRON', 'tag': 'ORG'}]","[('Rala', 'PERSON'), ('Katherine', 'PERSON'), ('Russell', 'PERSON'), ('Blake Mason', 'PERSON'), ('Sherry', 'PERSON'), ('MIRANT', 'ORG'), ('DYPMI', 'ORG'), ('LD', 'ORG'), ('WESCO', 'ORG'), ('ENRON', 'ORG')]"
+<13796403.1075847652830.JavaMail.evans@thyme>,"Enclosed is a draft presentation of legal issues to be presented at the CPUC
+emergency hearings in conjunction with regulatory and economic arguments set
+forth in the draft comments previously distributed by Jeff Dasovich.  Jeff
+and I will work to merge the legal issues into the full presentation,
+subject to the duscussion on the conference call tomorrow morning.  This
+presentation has been prepared in anticipation of the fact that we will
+likely be limited to a very short verbal presentation tomorrow.  A more
+extensive legal analysis of all these points is being prepared to accompany
+any briefs or written comments which we are permitted to file later.  Please
+e-mail comments using the reply function to MBD at this address before the
+conference call if at all possible.  Thank you.  Mike Day
+
+
+
+
+ - X19418.DOC","[{'word': 'Jeff Dasovich', 'tag': 'PERSON'}, {'word': 'Mike Day', 'tag': 'PERSON'}, {'word': 'CPUC', 'tag': 'ORG'}]","[('Jeff Dasovich', 'PERSON'), ('Mike Day', 'PERSON'), ('CPUC', 'ORG')]"
+<10582679.1075859916611.JavaMail.evans@thyme>,"I spoke to Mark Taylor today and here's what he said about quoting names on 
+Mission:
+
+1. It is generally more liberal to quote off-line than online.
+2. It is very easy to quote when we are showing one price for a basket of 
+names. As long as all names are equally divided. In fact legal team would 
+have no objection if there are 10-15 names in the group and they are all 
+equally weighted in exoposure.
+3. As far as the specific list is concerned, he will get back with us with 
+coments shortly.
+
+Ted:
+Please let me know who will be replacing you on this deal once you rotate (if 
+you are rotating)
+Also, do you have any indications on the weightage of each counter-party in 
+the list.
+
+Thanks and Regards
+Moazzam","[{'word': 'Mark Taylor', 'tag': 'PERSON'}, {'word': 'Ted', 'tag': 'PERSON'}, {'word': 'Moazzam', 'tag': 'PERSON'}]","[('Mark Taylor', 'PERSON'), ('Ted', 'PERSON'), ('Moazzam', 'PERSON')]"
+<6019506.1075860723304.JavaMail.evans@thyme>,"The Reliability Rules Subcommittee of the New York State Reliability Council (""NYSRC"") is posting this message to inform all interested parties of the ability to participate, on a ""listen-only"" basis, in the NYSRC Reliability Rules Subcommittee's Open Meeting No. 33 scheduled for Thursday, January 31, 2002, starting at 10:00 A.M.The agenda which includes the meeting location and dial-in number for this open meeting is attached.  The meeting will be conducted per the guidelines of NYSRC Openness Policy No. 2-3 ""http://www.nysrc.org/tcweb/pdf/Policy%202-3%20Final.pdf"". It is requested that those who plan on attending or listening shall send an email to ""larry.hochberg@nypa.gov"" with the names of the individuals & organizations participating.  Please visit ""http:\\www.nysrc.org"" for more NYSRC information.
+ 
+ 
+LawrenceT. Hochberg
+Secretary, NYSRC Reliability Rules Subcommittee
+ 
+ - rrsagenda33.doc 
+
+You are currently subscribed to nyisotie as: benjamin.rogers@enron.com
+To unsubscribe send a blank email to leave-nyisotie-628650Q@lyris.nyiso.com","[{'word': 'Lawrence T. Hochberg', 'tag': 'PERSON'}, {'word': 'Thursday, January 31, 2002', 'tag': 'DATE'}, {'word': 'New York State Reliability Council', 'tag': 'ORG'}, {'word': 'NYSRC', 'tag': 'ORG'}]","[('Lawrence T. Hochberg', 'PERSON'), ('Thursday, January 31, 2002', 'DATE'), ('New York State Reliability Council', 'ORG'), ('NYSRC', 'ORG')]"
+<7845031.1075854489435.JavaMail.evans@thyme>,"Guys, lets set up a meeting between the three of us on Monday ASAP to 
+discuss.  I have a few ideas and I probably need to go have dinner with Lew 
+to get him comfortable.  This may be setting up to be a larger asset 
+management transaction.  Don can you try and find a time next week with Lew 
+for me to have dinner - get Beverly to schedule the plane to get me in and 
+out that day.  If not next week then early the following.  I think it will 
+take a one on one with Lew to get this one centered.
+
+At our meeting, I would also like a status update on the other iniatives eg) 
+Ameren, DPL, Cinergy, etc.
+
+The accounting issues on the generation projects need to be addressed as well.
+
+Regards
+Delainey","[{'word': 'Lew', 'tag': 'PERSON'}, {'word': 'Don', 'tag': 'PERSON'}, {'word': 'Beverly', 'tag': 'PERSON'}, {'word': 'Delainey', 'tag': 'PERSON'}, {'word': 'Monday', 'tag': 'DATE'}, {'word': 'next week', 'tag': 'DATE'}, {'word': 'early the following', 'tag': 'DATE'}, {'word': 'Ameren', 'tag': 'ORG'}, {'word': 'DPL', 'tag': 'ORG'}, {'word': 'Cinergy', 'tag': 'ORG'}]","[('Lew', 'PERSON'), ('Don', 'PERSON'), ('Beverly', 'PERSON'), ('Delainey', 'PERSON'), ('Monday', 'DATE'), ('next week', 'DATE'), ('early the following', 'DATE'), ('Ameren', 'ORG'), ('DPL', 'ORG'), ('Cinergy', 'ORG')]"
+<19333982.1075854999159.JavaMail.evans@thyme>,"I am very pleased to announce that Bryan Reinecke has accepted the position of Planning Coordinator of the North Team of Facility Planning, located in Omaha.  He will complete 20 years with Enron in August, and has spent most of his career in Planning and Gas Control as a work director, manager and engineer.  He has been with the North Team of Facility Planning since 1993.  
+
+Bryan earned a Civil Engineering Degree from Kansas State University in 1981 and an MBA from the University of Houston in 1992.  
+
+Please join me in welcoming Bryan to his new position.
+
+
+-Morgan Gottsponer","[{'word': 'Bryan Reinecke', 'tag': 'PERSON'}, {'word': 'Morgan Gottsponer', 'tag': 'PERSON'}, {'word': 'Omaha', 'tag': 'LOCATION'}, {'word': 'Kansas State University', 'tag': 'LOCATION'}, {'word': 'University of Houston', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}, {'word': 'North Team of Facility Planning', 'tag': 'ORG'}]","[('Bryan Reinecke', 'PERSON'), ('Morgan Gottsponer', 'PERSON'), ('Omaha', 'LOCATION'), ('Kansas State University', 'LOCATION'), ('University of Houston', 'LOCATION'), ('Enron', 'ORG'), ('North Team of Facility Planning', 'ORG')]"
+<12080811.1075852644922.JavaMail.evans@thyme>,"Hi Jeff:
+
+I think yesterday was Dave's birthday.  Sorry I wasn't around to remind you,
+but maybe you remembered on your own :)  I still don't know what the hell his
+e-mail is  will you send it to me?
+
+How are you?  How is work?  How is the house?  Did you put the pool in?
+Whatever happened with Lisa?
+
+All is good here, been traveling a little.  Attached is a picture of me and
+Quinn from our last trip, mostly because I know it will freak you out :)
+We're coming to the US next week.  We fly through Houston, but for about an
+hour at 6am, so I'm guessing we won't see you:)
+
+Write or call for a second when you can.  Want to know how you are.
+
+Stefanie","[{'word': 'Jeff', 'tag': 'PERSON'}, {'word': 'Dave', 'tag': 'PERSON'}, {'word': 'Lisa', 'tag': 'PERSON'}, {'word': 'Quinn', 'tag': 'PERSON'}, {'word': 'Stefanie', 'tag': 'PERSON'}]","[('Jeff', 'PERSON'), ('Dave', 'PERSON'), ('Lisa', 'PERSON'), ('Quinn', 'PERSON'), ('Stefanie', 'PERSON')]"
+<23269046.1075840207065.JavaMail.evans@thyme>,"Ken:
+
+Rosie has marked your calendar for Wednesday December 13th to attend a 
+luncheon and speech at the Hyatt Downtown in the Lay Lecture Series.
+
+Barton Smith of UH will share the results of the economic study he is 
+co-directing on the costs and benefits of the Houston region complying with 
+the TNRCC SIP for ozone.  (This is the Greater Houston Partnership study I 
+have told you about.)  Dr. George Tolley of the University of Chicago will 
+also be present for the question and answer period.
+
+I will give you more information as the event approaches.
+
+- Rob
+
+
+Robert L. Bradley Jr.
+Director, Public Policy Analysis
+Enron Corp.
+P.O Box 1188, Room 4724a
+[1400 Smith Street 77002]
+Houston, Texas 77251-1188
+
+(P) 713-853-3062
+(F) 713-646-4702
+
+Assistant: Joan Stransky 713-853-4702
+jstrans@enron.com","[{'word': 'Ken', 'tag': 'PERSON'}, {'word': 'Rosie', 'tag': 'PERSON'}, {'word': 'Barton Smith', 'tag': 'PERSON'}, {'word': 'George Tolley', 'tag': 'PERSON'}, {'word': 'Robert L. Bradley Jr.', 'tag': 'PERSON'}, {'word': 'Joan Stransky', 'tag': 'PERSON'}, {'word': 'Wednesday December 13th', 'tag': 'DATE'}, {'word': 'Hyatt Downtown', 'tag': 'LOCATION'}, {'word': 'Houston, Texas', 'tag': 'LOCATION'}, {'word': 'Enron Corp.', 'tag': 'ORG'}, {'word': 'Greater Houston Partnership', 'tag': 'ORG'}, {'word': 'TNRCC SIP', 'tag': 'ORG'}]","[('Ken', 'PERSON'), ('Rosie', 'PERSON'), ('Barton Smith', 'PERSON'), ('George Tolley', 'PERSON'), ('Robert L. Bradley Jr.', 'PERSON'), ('Joan Stransky', 'PERSON'), ('Wednesday December 13th', 'DATE'), ('Hyatt Downtown', 'LOCATION'), ('Houston, Texas', 'LOCATION'), ('Enron Corp.', 'ORG'), ('Greater Houston Partnership', 'ORG'), ('TNRCC SIP', 'ORG')]"
+<10715368.1075852137365.JavaMail.evans@thyme>,"Thanks all for the feedback.
+     Here is the notes of the presentation. The following items were requested. Please let me know if I have overlooked any item.
+
+P&L
+Custom views (selection of hours)
+Transaction type (RT, DA, ISO, etc.) specification
+$ sign for the price
+Interval type transactions functionality
+
+Contact
+Counterparty specific
+Description field for each contact (settlement, trading, operations etc.)
+
+Report
+Custom P&L summary report (for a range of dates)
+
+Administration Functionality
+Only one dropdown box for the service counterparty
+DA and RT different P&L rules functionality
+Extranet user administration (administer what a user can view)
+Password protected or will be visible to the person who has admin status.
+
+-Rao","[{'word': 'Rao', 'tag': 'PERSON'}]","[('Rao', 'PERSON')]"
+<18107242.1075859968802.JavaMail.evans@thyme>,"Legal Mark following on from Paul Smith's email attached  are the revised 
+GTCs.  I am advised your signoff is required prior to them being loaded into 
+EOL . Essentially they are the previous HDD and CDD ""Australian weather swaps 
+GTCs. Each GTC has been amended slightly so it may be used for a product  
+where the weather observations are derived from a source other than the 
+Australian Bureau of Meteorology. I have reviewed the GTCs and confirm they 
+are acceptable.
+
+
+Would you please signify your concurrence by email.     
+
+
+Tax I have seen a response from PWC yesterday that appeared satisfactory. 
+Perhaps Susan or Heidi can confirm this  to Jeff who I understand also needs 
+to give his signoff.
+
+Dale attached are the final product descriptions.  Please call me if you have 
+any questions.","[{'word': 'Mark', 'tag': 'PERSON'}, {'word': 'Paul Smith', 'tag': 'PERSON'}, {'word': 'Dale', 'tag': 'PERSON'}, {'word': 'Susan', 'tag': 'PERSON'}, {'word': 'Heidi', 'tag': 'PERSON'}, {'word': 'Jeff', 'tag': 'PERSON'}, {'word': 'PWC', 'tag': 'ORG'}]","[('Mark', 'PERSON'), ('Paul Smith', 'PERSON'), ('Dale', 'PERSON'), ('Susan', 'PERSON'), ('Heidi', 'PERSON'), ('Jeff', 'PERSON'), ('PWC', 'ORG')]"
+<10828607.1075859933188.JavaMail.evans@thyme>,"Mark  attached is the revised Posting Agreement.  Andy and Louise are 
+catching an early flight tomorrow, so it won't do any good to e-mail this to 
+them.  Andy said he would be happy if you would just forward it on to S&C in 
+preparation for the meeting.
+
+This is still pretty rough, but I guess it isn't bad for a working draft.  I 
+hope that the drafting session is helpful, and again, I'm happy to sit in on 
+it (although I don't think any of us would get that much out of it if I were 
+to do that).
+
+
+
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490","[{'word': 'Mark', 'tag': 'PERSON'}, {'word': 'Andy', 'tag': 'PERSON'}, {'word': 'Louise', 'tag': 'PERSON'}, {'word': 'Travis McCullough', 'tag': 'PERSON'}, {'word': 'Houston Texas 77002', 'tag': 'LOCATION'}, {'word': 'Enron North America Corp.', 'tag': 'ORG'}, {'word': 'S&C', 'tag': 'ORG'}]","[('Mark', 'PERSON'), ('Andy', 'PERSON'), ('Louise', 'PERSON'), ('Travis McCullough', 'PERSON'), ('Houston Texas 77002', 'LOCATION'), ('Enron North America Corp.', 'ORG'), ('S&C', 'ORG')]"
+<19729811.1075858557023.JavaMail.evans@thyme>,"Hi Jennifer,  I don't know if you remember, but we met at Gallant Knight on Friday night.  I was with Mike Robison and the Enron group.  I had never been there before, but that place is alot of fun.  Definition of  ""Swanky"".  You are probably wondering, ""Why is this guy emailing me!""  We'll, I will be straightforward and say that I found you very charming.  I wanted to see if you would be interested in meeting me for lunch or a drink afterwork!  I apologize in advance if you are dating or involved with someone, but I thought I would take that chance.  
+
+P.S.  Mike gave me your email address, but don't hold it against him. ;-)       
+
+Gerald","[{'word': 'Jennifer', 'tag': 'PERSON'}, {'word': 'Mike Robison', 'tag': 'PERSON'}, {'word': 'Gerald', 'tag': 'PERSON'}, {'word': 'Gallant Knight', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Jennifer', 'PERSON'), ('Mike Robison', 'PERSON'), ('Gerald', 'PERSON'), ('Gallant Knight', 'LOCATION'), ('Enron', 'ORG')]"
+<6303726.1075856219633.JavaMail.evans@thyme>,"Lenny,
+
+I believe that you must have done your home work on the the tax credit 
+issue.  However, it may
+make sense to create some kind of reserve in case the tax credit is removed 
+in the future. 
+
+I am glad that you like the way we treat the tax credit, which is built into 
+the strike price for the
+digital option. With the tax credit,  it is most likely the option will be 
+exercised.
+
+Paulo  Issler is the person who worked on this model initially. He will be 
+back this Wednesday.
+We can talk to him about the standard deviation he put into the model.
+
+
+Zimin
+
+
+
+
+
+
+
+Lenny Hochschild@ENRON","[{'word': 'Lenny', 'tag': 'PERSON'}, {'word': 'Paulo Issler', 'tag': 'PERSON'}, {'word': 'this Wednesday', 'tag': 'DATE'}, {'word': 'ENRON', 'tag': 'ORG'}]","[('Lenny', 'PERSON'), ('Paulo Issler', 'PERSON'), ('this Wednesday', 'DATE'), ('ENRON', 'ORG')]"
+<8942638.1075856508231.JavaMail.evans@thyme>,"Jim,
+
+CHARM looks more like  a prototype that requires a lot of work to make it 
+more a
+production tool.
+
+We have developed a similar model (without some nice functionalities CHARM 
+has)
+in about two weeks, at request of Rick Jones who joined EES from HSB. Rick
+worked on a similar model at his old company  and wanted to have a similar 
+tool
+for his projects with Enron. I can tell you more about it when we meet 
+(hopefully) later
+this week. 
+
+I would tell Willis that the model requires more work before Enron can
+consider it as commercial product.
+
+Vince 
+
+
+
+
+
+James L Bouillion","[{'word': 'Jim', 'tag': 'PERSON'}, {'word': 'Rick Jones', 'tag': 'PERSON'}, {'word': 'Vince', 'tag': 'PERSON'}, {'word': 'James L Bouillion', 'tag': 'PERSON'}, {'word': 'EES', 'tag': 'ORG'}, {'word': 'HSB', 'tag': 'ORG'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Jim', 'PERSON'), ('Rick Jones', 'PERSON'), ('Vince', 'PERSON'), ('James L Bouillion', 'PERSON'), ('EES', 'ORG'), ('HSB', 'ORG'), ('Enron', 'ORG')]"
+<17061483.1075844692869.JavaMail.evans@thyme>,"Sam,
+
+We are moving forward to execute the ITG Quantex agreement now that the final 
+revisions were approved.  Sheila has forwarded a revised version of the 
+document for Gary Hickerson to sign.  Please make sure that, once Gary signs 
+the two copies, they are both forwarded to Cassandra Shultz for signature.  
+Then, I think, Selena said she would send to ITG, but make sure.
+
+I am hoping we get signatures tomorrow; I will be out of the office all day 
+tomorrow  traveling to New York and will not return until 10 a.m. Tuesday 
+morning (Monday being a holiday).
+
+Cheryl Nelson
+Senior Counsel
+EB3875
+(713) 345-4693","[{'word': 'Sam', 'tag': 'PERSON'}, {'word': 'Sheila', 'tag': 'PERSON'}, {'word': 'Gary Hickerson', 'tag': 'PERSON'}, {'word': 'Cassandra Shultz', 'tag': 'PERSON'}, {'word': 'Selena', 'tag': 'PERSON'}, {'word': 'Cheryl Nelson', 'tag': 'PERSON'}, {'word': 'tomorrow', 'tag': 'DATE'}, {'word': '10 a.m. Tuesday morning', 'tag': 'DATE'}, {'word': 'Monday', 'tag': 'DATE'}, {'word': 'New York', 'tag': 'LOCATION'}, {'word': 'ITG', 'tag': 'ORG'}]","[('Sam', 'PERSON'), ('Sheila', 'PERSON'), ('Gary Hickerson', 'PERSON'), ('Cassandra Shultz', 'PERSON'), ('Selena', 'PERSON'), ('Cheryl Nelson', 'PERSON'), ('tomorrow', 'DATE'), ('10 a.m. Tuesday morning', 'DATE'), ('Monday', 'DATE'), ('New York', 'LOCATION'), ('ITG', 'ORG')]"
+<29924139.1075842567032.JavaMail.evans@thyme>,"I don't see any serious problems with this.  There are a few things you two 
+need to verify or get comfortable with:  bullet 6 says PG&E has made all 
+payments in a timely manner.  You can leave it in if its true, but the bullet 
+needs to be mutual, not one-way, and I'd suggest replacing it with: 
+""Transwestern and PG&E agree that, by entering into this agreement, neither 
+is to be deemed to have made any admission against interest.""  Also, the 
+mechanism in bullet 9 is up to you, Paul.  We should probably list the rating 
+service by name to avoid ambiguity.  There are also a couple of minor 
+things:  in bullet 2, add an ""s"" to ""contract"" inline 2; in bullet 7, add 
+""the"" at the end of line 1.  Call if you have questions.  DF","[{'word': 'PG&E', 'tag': 'PERSON'}, {'word': 'Transwestern', 'tag': 'PERSON'}, {'word': 'Paul', 'tag': 'PERSON'}, {'word': 'DF', 'tag': 'PERSON'}]","[('PG&E', 'PERSON'), ('Transwestern', 'PERSON'), ('Paul', 'PERSON'), ('DF', 'PERSON')]"
+<25717714.1075852759463.JavaMail.evans@thyme>,"Shyla,
+
+I hope its going well!
+
+I just wanted to respond to your request to have the buy's/sell's outline for you in the summery of one month trades.  Could you please explain why you need this information to complete your pie chart?  It would be my  preference not to include this information as our trading positions could be piece together prior to us having time to close out of those positions.  The risk of outside parties knowing our positions is of grave concern and it would be my preference to avoid this if at all possible.
+
+Please give me a call to discuss.
+
+Regards,
+
+Jon","[{'word': 'Shyla', 'tag': 'PERSON'}, {'word': 'Jon', 'tag': 'PERSON'}]","[('Shyla', 'PERSON'), ('Jon', 'PERSON')]"
+<32085789.1075844376021.JavaMail.evans@thyme>,"Susan and Samantha:
+We are in the process of completing a quarter end project called Project 
+Margaux and have completed the Raptor II project.  With respect to Project 
+Margaux, please coordinate with Mark Evans in London to get closing sets of 
+documents.   With respect to Raptor II, I will leav a message with Alicia 
+Curry at V&E to send you the closing sets.  I will leave with you my closing 
+binder on Raptor I.
+
+Sara,
+It might not be a bad idea to meet with Brenda Funk in the next few weeks to 
+get updated on all of the qaurter end delas.
+
+Carol","[{'word': 'Susan', 'tag': 'PERSON'}, {'word': 'Samantha', 'tag': 'PERSON'}, {'word': 'Mark Evans', 'tag': 'PERSON'}, {'word': 'Alicia Curry', 'tag': 'PERSON'}, {'word': 'Sara', 'tag': 'PERSON'}, {'word': 'Brenda Funk', 'tag': 'PERSON'}, {'word': 'Carol', 'tag': 'PERSON'}, {'word': 'London', 'tag': 'LOCATION'}, {'word': 'V&E', 'tag': 'ORG'}]","[('Susan', 'PERSON'), ('Samantha', 'PERSON'), ('Mark Evans', 'PERSON'), ('Alicia Curry', 'PERSON'), ('Sara', 'PERSON'), ('Brenda Funk', 'PERSON'), ('Carol', 'PERSON'), ('London', 'LOCATION'), ('V&E', 'ORG')]"
+<21498421.1075861425720.JavaMail.evans@thyme>,"Enron Fuels International, Inc., company #494-EFII, has withdrawn its authorization in the following state(s) on the date(s) given:
+
+			Colorado	September 4, 2001
+			Florida		September 4, 2001
+			Illinois		September 5, 2001
+			Indiana		September 4, 2001
+			Iowa		August 31, 2001
+			Kansas		November 5, 2001
+			Nebraska	September 5, 2001
+
+
+Please circulate this information to all interested parties within your group.
+
+PLEASE NOTE:
+Nony Flores - copy of evidence being sent by interoffice mail
+Vicsandra Trujillo - copy of evidence being sent by interoffice mail
+Sylvia Hu - original certificate(s) delivered by messenger
+
+
+Lillian R. Bailey
+Administrator
+Corp. Services
+EB4863
+Ext. 33577
+Telephone 713/853-3577
+Fax 713/646-8007
+lillian.bailey@enron.com","[{'word': 'Nony Flores', 'tag': 'PERSON'}, {'word': 'Vicsandra Trujillo', 'tag': 'PERSON'}, {'word': 'Sylvia Hu', 'tag': 'PERSON'}, {'word': 'Lillian R. Bailey', 'tag': 'PERSON'}, {'word': 'September 4, 2001', 'tag': 'DATE'}, {'word': 'September 5, 2001', 'tag': 'DATE'}, {'word': 'August 31, 2001', 'tag': 'DATE'}, {'word': 'November 5, 2001', 'tag': 'DATE'}, {'word': 'Colorado', 'tag': 'LOCATION'}, {'word': 'Florida', 'tag': 'LOCATION'}, {'word': 'Illinois', 'tag': 'LOCATION'}, {'word': 'Indiana', 'tag': 'LOCATION'}, {'word': 'Iowa', 'tag': 'LOCATION'}, {'word': 'Kansas', 'tag': 'LOCATION'}, {'word': 'Nebraska', 'tag': 'LOCATION'}, {'word': 'Enron Fuels International, Inc.', 'tag': 'ORG'}]","[('Nony Flores', 'PERSON'), ('Vicsandra Trujillo', 'PERSON'), ('Sylvia Hu', 'PERSON'), ('Lillian R. Bailey', 'PERSON'), ('September 4, 2001', 'DATE'), ('September 5, 2001', 'DATE'), ('August 31, 2001', 'DATE'), ('November 5, 2001', 'DATE'), ('Colorado', 'LOCATION'), ('Florida', 'LOCATION'), ('Illinois', 'LOCATION'), ('Indiana', 'LOCATION'), ('Iowa', 'LOCATION'), ('Kansas', 'LOCATION'), ('Nebraska', 'LOCATION'), ('Enron Fuels International, Inc.', 'ORG')]"
+<24206005.1075841298669.JavaMail.evans@thyme>,"Start Date: 1/23/02; HourAhead hour: 5;  HourAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+PARSING FILE  O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002012305.txt
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database","[{'word': '1/23/02', 'tag': 'DATE'}]","[('1/23/02', 'DATE')]"
+<28014132.1075857670970.JavaMail.evans@thyme>,"John, 
+
+As per our conversation yesterday, I suggest that we put the two trades that you closed with us in January (25 MW baseload swap, 1 year, Feb. 01 to Jan 02) back on the MTM books and give you simultaneously the opportunity to close these positions.  Our prices for  June 01 - Jan 02 swap rates are as follows:
+
+Argentina power $18.50 - $20.40 per MWh (this is a bid-offer spread in US dollars; you are currently long)
+Brazil power R$425 - R$475 per MWh (this is a bid-offer spread in reais; you are currently short);
+
+We are also making sure that there will be no adverse tax impact for Enron.
+
+Please let me know if you agree to close these positions.
+
+Remi","[{'word': 'John', 'tag': 'PERSON'}, {'word': 'Remi', 'tag': 'PERSON'}, {'word': 'yesterday', 'tag': 'DATE'}, {'word': 'January (25 MW baseload swap, 1 year, Feb. 01 to Jan 02)', 'tag': 'DATE'}, {'word': 'June 01 - Jan 02', 'tag': 'DATE'}, {'word': 'Enron', 'tag': 'ORG'}]","[('John', 'PERSON'), ('Remi', 'PERSON'), ('yesterday', 'DATE'), ('January (25 MW baseload swap, 1 year, Feb. 01 to Jan 02)', 'DATE'), ('June 01 - Jan 02', 'DATE'), ('Enron', 'ORG')]"
+<14005036.1075849738125.JavaMail.evans@thyme>,"Dear Martin Cuilla  ,
+
+We have received your email request regarding Lexington Furniture Internet
+sales.  In response to your inquiry, we do carry Bernhardt and the
+collection Paris and we,ll be glad to quote prices for you.  Please include
+your complete name and address in all future correspondence, along with the
+style numbers you are interested in for pricing and in-home delivery
+charges.
+
+Please visit our web site at www.lexfurniture.com to see what else we have
+to offer.
+
+If you have any questions or need additional information, please feel free
+to call us at (859) 254-5362 or email again.
+
+
+Thank you,
+Madison
+Lexington Furniture Company","[{'word': 'Martin Cuilla', 'tag': 'PERSON'}, {'word': 'Madison', 'tag': 'PERSON'}, {'word': 'Lexington Furniture Company', 'tag': 'ORG'}]","[('Martin Cuilla', 'PERSON'), ('Madison', 'PERSON'), ('Lexington Furniture Company', 'ORG')]"
+<24203820.1075862595896.JavaMail.evans@thyme>,"Chuck,
+
+I have been on vacation since the middle of last week.  I have now received your multiple emails and vmails.  As you are well aware Enron is dealing with a multitude of challenges at the current time.  I appreciate your and Miles' patience regarding the possibility of Enron creating and trading a TradersNews Cinergy product on EOL.  We are currently still evaluating the TradersNews historical data and market conditions pertaining to the viability of such a product.  I will contact you as soon as I am able to move forward with this project on this side.  The best way to reach me is currently via e-mail.
+
+Thanks,
+
+Don Baughman
+Commercial Manager
+Enron Power Marketing, Inc.
+713-853-0392","[{'word': 'Chuck', 'tag': 'PERSON'}, {'word': 'Miles', 'tag': 'PERSON'}, {'word': 'Don Baughman', 'tag': 'PERSON'}, {'word': 'since the middle of last week', 'tag': 'DATE'}, {'word': 'Enron', 'tag': 'ORG'}, {'word': 'Enron Power Marketing, Inc.', 'tag': 'ORG'}]","[('Chuck', 'PERSON'), ('Miles', 'PERSON'), ('Don Baughman', 'PERSON'), ('since the middle of last week', 'DATE'), ('Enron', 'ORG'), ('Enron Power Marketing, Inc.', 'ORG')]"
+<197294.1075857249384.JavaMail.evans@thyme>,"This e-mail will confirm the site visit by your company at the three plants.  
+The relevant information is as follows:
+
+
+
+
+
+Pursuant to the Site Visit Procedures sent you by CSFB, if you have not 
+already done so, please send me the following:
+List of your team members and titles
+For outside consultants, state their employer
+Name, phone number (office and mobile) and e-mail address of your designated 
+deal team leader
+
+Lastly, I will serve as the due diligence coordinator for the three plants, 
+handling all questions and responses.  Should you have any due diligence 
+questions or require copies of any oversized documents, please contact me at 
+713.853.7998.  
+Regards,
+Ben","[{'word': 'CSFB', 'tag': 'PERSON'}, {'word': 'Ben', 'tag': 'PERSON'}]","[('CSFB', 'PERSON'), ('Ben', 'PERSON')]"
+<13429968.1075847595714.JavaMail.evans@thyme>,"STEVE KEAN
+
+
+
+
+
+Executive Committee Weekly Meeting
+Date:  Monday, April 23rd     
+Time:  11:00 a.m. (CDT)
+Location: 50th Floor Boardroom
+Video:  Connections will be established with remote locations upon request.
+Conf call: AT&T lines have been reserved.  Please contact Sherri Sera 
+(713/853-5984) 
+  or Bill Dorsey (713/646-6505) for the weekly dial-in number and passcode.
+
+Please indicate below whether or not you plan to attend this meeting and 
+through what medium. 
+
+ Yes, I will attend in person X
+
+ By video conference from 
+
+ By conference call  
+
+ No, I will not attend  
+
+*  *  *
+
+Please return this e-mail to me with your response by 12:00 p.m., Friday, 
+April 20th
+
+Thank you, 
+Bill Dorsey.","[{'word': 'STEVE KEAN', 'tag': 'PERSON'}, {'word': 'Sherri Sera', 'tag': 'PERSON'}, {'word': 'Bill Dorsey', 'tag': 'PERSON'}, {'word': 'Monday, April 23rd', 'tag': 'DATE'}, {'word': '12:00 p.m., Friday, April 20th', 'tag': 'DATE'}, {'word': '50th Floor Boardroom', 'tag': 'LOCATION'}, {'word': 'AT&T', 'tag': 'ORG'}]","[('STEVE KEAN', 'PERSON'), ('Sherri Sera', 'PERSON'), ('Bill Dorsey', 'PERSON'), ('Monday, April 23rd', 'DATE'), ('12:00 p.m., Friday, April 20th', 'DATE'), ('50th Floor Boardroom', 'LOCATION'), ('AT&T', 'ORG')]"
+<28995097.1075852953055.JavaMail.evans@thyme>,"Larry,
+
+Here it is...
+
+St. Anthony's Roman Catholic Church
+85 Harrison Street
+West Harrison, NY 10604
+
+Karen
+
+Karen Phillips
+Director, Customer Marketing
+FX Alliance, LLC
+900 Third Avenue, 3rd Floor
+New York, NY  10022
+Tel. 646-268-9954
+Fax. 646-268-9996
+E-mail: karen.phillips@fxall.com
+www.fxall.com
+
+
+This message is intended for the named addressee(s) only and contains
+information that may be confidential, non-public or legally privileged.  If
+you are not the intended recipient, you must not copy this message or
+attachment or disclose the contents to any other person.  If you received
+this email in error, please contact the sender and permanently delete the
+email and any attachments.
+
+Unless expressly stated, opinions in this email are those of the individual
+sender and not of FX Alliance, LLC or its affiliates.","[{'word': 'Larry', 'tag': 'PERSON'}, {'word': 'Karen Phillips', 'tag': 'PERSON'}, {'word': '85 Harrison Street', 'tag': 'LOCATION'}, {'word': 'West Harrison, NY 10604', 'tag': 'LOCATION'}, {'word': '900 Third Avenue, 3rd Floor', 'tag': 'LOCATION'}, {'word': 'New York, NY  10022', 'tag': 'LOCATION'}, {'word': ""St. Anthony's Roman Catholic Church"", 'tag': 'ORG'}, {'word': 'FX Alliance, LLC', 'tag': 'ORG'}]","[('Larry', 'PERSON'), ('Karen Phillips', 'PERSON'), ('85 Harrison Street', 'LOCATION'), ('West Harrison, NY 10604', 'LOCATION'), ('900 Third Avenue, 3rd Floor', 'LOCATION'), ('New York, NY  10022', 'LOCATION'), (""St. Anthony's Roman Catholic Church"", 'ORG'), ('FX Alliance, LLC', 'ORG')]"
+<24437978.1075862125449.JavaMail.evans@thyme>,"Background Investigation
+
+NOW you can do background investigations of your neighbors, employees,
+friends and neighbors, using YOUR COMPUTER AT HOME OR WORK!
+
+In fact, YOU CAN FIND OUT THE TRUTH ABOUT ANYONE.
+
+It's FAST, its EASY and its FUN.
+
+NET DETECTIVE 2001 is an amazing new tool that allows you to dig up facts
+about anyone. It is all completely legal, and you can use it in the privacy
+of your own home without anyone ever knowing. It's cheaper and faster than
+hiring a private investigator.
+
+For more information click here 
+http://www.affiliate-top10.com/cgi-bin/clickthru.cgi?sid=srich10195&pid=ND2
+
+NET DETECTIVE 2001 is endorsed by the National Association of Independent
+Private Investigators (NAIPI)","[{'word': 'National Association of Independent Private Investigators', 'tag': 'ORG'}]","[('National Association of Independent Private Investigators', 'ORG')]"
+<27272242.1075861703153.JavaMail.evans@thyme>,"Juniper GP, LLC
+
+This limited liability company was formed in Delaware on November 5, 2001.  Particulars are:
+
+	Parent Company:	ECT Merchant Investments Corp. - 100%  
+
+	Business:	Acquisition of 100% of the general partnership interest in Juniper Energy L.P.
+
+	Employees:	No
+
+	Foreign Qualifications:	Louisiana and Texas (pending)
+
+	Company No.:	1791-JUNP
+
+Please circulate this information to all interested parties in your group.
+
+For more information, see attached Corporate Data Sheet. 
+ 
+ 
+
+PLEASE NOTE:
+	Mary Heinitz - copy of evidence being sent by interoffice mail
+	Angie Ramirez - please apply for FEIN
+	Sylvia Hu - Minute Book and one seal have been ordered
+
+
+
+Lillian R. Bailey
+Administrator
+Corp. Services
+EB4863
+Ext. 33577
+Telephone 713/853-3577
+Fax 713/646-8007
+lillian.bailey@enron.com","[{'word': 'Mary Heinitz', 'tag': 'PERSON'}, {'word': 'Angie Ramirez', 'tag': 'PERSON'}, {'word': 'Sylvia Hu', 'tag': 'PERSON'}, {'word': 'Lillian R. Bailey', 'tag': 'PERSON'}, {'word': 'November 5, 2001', 'tag': 'DATE'}, {'word': 'Delaware', 'tag': 'LOCATION'}, {'word': 'Louisiana', 'tag': 'LOCATION'}, {'word': 'Texas', 'tag': 'LOCATION'}, {'word': 'Juniper GP, LLC', 'tag': 'ORG'}, {'word': 'ECT Merchant Investments Corp.', 'tag': 'ORG'}, {'word': 'Juniper Energy L.P.', 'tag': 'ORG'}]","[('Mary Heinitz', 'PERSON'), ('Angie Ramirez', 'PERSON'), ('Sylvia Hu', 'PERSON'), ('Lillian R. Bailey', 'PERSON'), ('November 5, 2001', 'DATE'), ('Delaware', 'LOCATION'), ('Louisiana', 'LOCATION'), ('Texas', 'LOCATION'), ('Juniper GP, LLC', 'ORG'), ('ECT Merchant Investments Corp.', 'ORG'), ('Juniper Energy L.P.', 'ORG')]"
+<3572736.1075840322281.JavaMail.evans@thyme>,"Date: Thursday, January 24, 2002
+
+Location: The Houstonian Hotel
+
+Orientation will be split into two sessions and divided by alpha-order. Sessions will run 10am-1pm and 2pm-5pm.
+
+We encourage all of you to attend your designated session as valuable information will be presented, and you will have the opportunity to get answers to your questions.
+
+You will need to bring your Enron ID card or drivers license.
+
+You can speed things up tomorrow by filing in the attached forms - alternatively you can complete them there tomorrow
+
+10am Session   Letters A- K
+
+2pm Session Letters L-Z
+
+
+Registration will be outside of the Juniper Room.
+
+Bus Transportation
+
+Buses will depart from the Java Plaza area on the ground floor of the north building at:
+
+First session 				Second session
+8:45am-9am				12:45pm-1pm","[{'word': 'Thursday, January 24, 2002', 'tag': 'DATE'}, {'word': 'The Houstonian Hotel', 'tag': 'LOCATION'}, {'word': 'Juniper Room', 'tag': 'LOCATION'}, {'word': 'Java Plaza', 'tag': 'LOCATION'}]","[('Thursday, January 24, 2002', 'DATE'), ('The Houstonian Hotel', 'LOCATION'), ('Juniper Room', 'LOCATION'), ('Java Plaza', 'LOCATION')]"
+<1417160.1075858504311.JavaMail.evans@thyme>,"Melissa,
+
+This looks fine.   Paul Choi will again be offsetting any payments to Valley Electric, so no physical payment will be sent to them.
+
+Just as a final cross-check to make sure we are all operating under the same understanding for Willamette, they have been paid the full amount plus an overage of $25.  They will not be receiving any additional funds on 5/31, nor will they be charged for the overage.  The amount overpaid to them will be included  in the entry for ECTstCA.  Is that your understanding as well?
+
+Other than that, payments listed in your spreadsheet are good to go. 
+
+Please let me know when the payments are actually released.
+
+Thanks!
+
+Caroline","[{'word': 'Melissa', 'tag': 'PERSON'}, {'word': 'Paul Choi', 'tag': 'PERSON'}, {'word': 'Willamette', 'tag': 'PERSON'}, {'word': 'Caroline', 'tag': 'PERSON'}, {'word': '5/31', 'tag': 'DATE'}, {'word': 'Valley Electric', 'tag': 'ORG'}, {'word': 'ECTstCA', 'tag': 'ORG'}]","[('Melissa', 'PERSON'), ('Paul Choi', 'PERSON'), ('Willamette', 'PERSON'), ('Caroline', 'PERSON'), ('5/31', 'DATE'), ('Valley Electric', 'ORG'), ('ECTstCA', 'ORG')]"
+<27710584.1075859965492.JavaMail.evans@thyme>,"The confirm form is one of the many current templates used by the confirm 
+desk depending on the specific transaction type and the counterparty.  For 
+instance, this template is not the used for a swap (e.g. not a cap, floor, 
+collar or swaption) and would not be used even for a plain vanilla swap if 
+the customer had not signed an ISDA Master Agreement.  The index language can 
+be used in a variety of contexts but again depends on exactly which type of 
+trade you are doing.  But I thought you guys had decided to use the first 
+price published in the following month rather than the average of the entire 
+month language attached so this may not be the final version.
+
+
+
+	Kim Stanley@ENRON","[{'word': 'Kim Stanley', 'tag': 'PERSON'}, {'word': 'ENRON', 'tag': 'ORG'}]","[('Kim Stanley', 'PERSON'), ('ENRON', 'ORG')]"
+<23595108.1075858930473.JavaMail.evans@thyme>,"I love El Tiempo!  I am so bummed that I can't make
+it, but my hubby is turning 28 this weekend so we are
+heading down to Galveston for a celebration.  Y'all
+have fun and lets plan a Tasters!  Happy Birthday,
+Ashlea!
+
+Love,
+Sarah
+ Ashleastu@aol.com wrote:
+
+ we are going out this friday night for my birthday
+ and i hope you can join
+ us! we are meeting at el tiempo on richmond around
+ 7:30 for dinner and drinks
+ and then going out on the town! i hope to see you
+ there and let me know if
+ you can make it!!
+ thanks,
+ ashlea
+
+
+
+Do You Yahoo!?
+Make international calls for as low as $.04/minute with Yahoo! Messenger
+http://phonecard.yahoo.com/","[{'word': 'El Tiempo', 'tag': 'PERSON'}, {'word': 'Ashlea', 'tag': 'PERSON'}, {'word': 'Sarah', 'tag': 'PERSON'}, {'word': 'Galveston', 'tag': 'LOCATION'}, {'word': 'Richmond', 'tag': 'LOCATION'}]","[('El Tiempo', 'PERSON'), ('Ashlea', 'PERSON'), ('Sarah', 'PERSON'), ('Galveston', 'LOCATION'), ('Richmond', 'LOCATION')]"
+<19972246.1075859940610.JavaMail.evans@thyme>,"Leonardo  I have spoken to Ed Baughman about your communication below.  He 
+has indicated that we will shelve the summer 2000 product offering but that 
+it is still desirable to offer the second product, minus its Summer 2000 
+portion.  That is, the power desk would like to get up and running as soon as 
+possible the same website and auction rules, offering Summer 2001-2002 
+Capacity and Energy as the sole initial product.   Please either take a run 
+at revising the website text to remove product one and the reference to 
+Aug-Sept 2000 in product two, or send me the most recent revision so that I 
+can make these deletions.  Additionally, feel free to call me with any 
+questions.  David. 
+
+  
+
+
+
+	Leonardo Pacheco@ENRON","[{'word': 'Leonardo Pacheco', 'tag': 'PERSON'}, {'word': 'Ed Baughman', 'tag': 'PERSON'}, {'word': 'David', 'tag': 'PERSON'}, {'word': 'summer 2000', 'tag': 'DATE'}, {'word': 'Summer 2001-2002', 'tag': 'DATE'}, {'word': 'ENRON', 'tag': 'ORG'}]","[('Leonardo Pacheco', 'PERSON'), ('Ed Baughman', 'PERSON'), ('David', 'PERSON'), ('summer 2000', 'DATE'), ('Summer 2001-2002', 'DATE'), ('ENRON', 'ORG')]"
+<29546882.1075852825755.JavaMail.evans@thyme>,"Dear Kevin,     This  Personalized Re-order Page was created just for you.   Simply  click on your secure personal link button above and start the easy process  of ordering your contact lenses online.   If  you have any questions, please contact one of our Internet specialists  by either replying to this message or calling us toll free at 1-800-CONTACTS.    Our  goal is to provide you the fastest, easiest and most convenient way  to replace your contacts.   Sincerely,    The  team at 1-800 CONTACTS   If  you have troubles with the above button please cut and paste the following  link into your browser and hit enter:  https://order.1800contacts.com/reo.csp?link=hchehbhjcpknkppginpjflhk&ac=reo2101701   If  you would like to be removed from our reminder list, please reply to  this message with 'UNSUBSCRIBE' in the subject.  		
+					
+	  Most Popular  | Vial  Lenses  | Toric Lenses  | Color Lenses  | Bifocal  Lenses  | Other Lenses","[{'word': 'Kevin', 'tag': 'PERSON'}, {'word': '1-800 CONTACTS', 'tag': 'ORG'}]","[('Kevin', 'PERSON'), ('1-800 CONTACTS', 'ORG')]"
+<32793092.1075840826441.JavaMail.evans@thyme>,"Bob Shults and I will be attending an eNYMEX reception this Thursday, and John and Greg are still trying to coordinate a meeting with Bo and Vincent.  Short answer we've got it as covered as possible for now.  
+
+Another item:  I got a call from Stephen Thome in ENA who wanted us to post something like an advertisement for your turbines on EnronOnline.  Jay confirmed that it was technically feasible to craft a pop-up that targets certain customers with information and links to documents and spec sheets.  I'm told we have resisted this approach in the past because it has the potential to get out of hand once the genie gets out of the bottle, so to speak.  I think it fits well for the turbines, but I wanted to make sure you were behind this idea before we launched into development.
+
+Brad","[{'word': 'Bob Shults', 'tag': 'PERSON'}, {'word': 'John', 'tag': 'PERSON'}, {'word': 'Greg', 'tag': 'PERSON'}, {'word': 'Bo', 'tag': 'PERSON'}, {'word': 'Vincent', 'tag': 'PERSON'}, {'word': 'Stephen Thome', 'tag': 'PERSON'}, {'word': 'Jay', 'tag': 'PERSON'}, {'word': 'Brad', 'tag': 'PERSON'}, {'word': 'this Thursday', 'tag': 'DATE'}, {'word': 'eNYMEX', 'tag': 'ORG'}, {'word': 'ENA', 'tag': 'ORG'}, {'word': 'EnronOnline', 'tag': 'ORG'}]","[('Bob Shults', 'PERSON'), ('John', 'PERSON'), ('Greg', 'PERSON'), ('Bo', 'PERSON'), ('Vincent', 'PERSON'), ('Stephen Thome', 'PERSON'), ('Jay', 'PERSON'), ('Brad', 'PERSON'), ('this Thursday', 'DATE'), ('eNYMEX', 'ORG'), ('ENA', 'ORG'), ('EnronOnline', 'ORG')]"
+<5143994.1075853967604.JavaMail.evans@thyme>,"Daren,
+
+I was wondering if it would be OK for me to sit in with you one day to get a 
+general feel of your end of the process.  Pat had told me before he left that 
+it would help me better grasp the process as a whole.
+
+I understand the imminent cold weather is making things crazy, so now may not 
+be the best time to be in your way.  But let me know if I can spend a day,  
+morning, or even just an afternoon down there with you whenever it is a good 
+time.  I think it will help me very much in my role.
+
+Thanks.
+
+Mike","[{'word': 'Daren', 'tag': 'PERSON'}, {'word': 'Pat', 'tag': 'PERSON'}, {'word': 'Mike', 'tag': 'PERSON'}]","[('Daren', 'PERSON'), ('Pat', 'PERSON'), ('Mike', 'PERSON')]"
+<10751449.1075855426516.JavaMail.evans@thyme>,"Steve,
+
+I promised myself that I would not leave today until I have sent this e-mail.
+I want you to know how much I admired your professional, humane, and
+responsible leadership of the public affairs group. You did make me feel
+""comfortable"" working here. I am especially proud of your management 
+of this crises and the compassion that you have shown. I will continue 
+to pray for Enron, that such a truly great company will be restored to 
+greatness again. I also will pray for you all in the management team 
+for wisdom and strength at this difficult time.
+
+May God richly bless you,
+Gloria","[{'word': 'Steve', 'tag': 'PERSON'}, {'word': 'Gloria', 'tag': 'PERSON'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Steve', 'PERSON'), ('Gloria', 'PERSON'), ('Enron', 'ORG')]"
+<22815894.1075856238591.JavaMail.evans@thyme>,"Happy New Year to all!
+
+Don't forget to get registered early for this year's conference.  It
+promises to be the best yet.  The fun stuff is already organized and the
+program looks to be the best that ""Trail Boss"" Titman has yet produced.
+
+Notice the ""friendly encouragement"" (translation discount in the
+registration fee) for early registration.  The conference info and
+registration form can be found at
+http://hsb.baylor.edu/html/martinj/Tff2001/index.htm
+
+Happy new year and hope to see you in San Antonio in April!
+
+John
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+JMartin@Baylor.edu
+web:    http://hsb.baylor.edu/html/martinj/home.html","[{'word': 'Trail Boss Titman', 'tag': 'PERSON'}, {'word': 'John D. Martin', 'tag': 'PERSON'}, {'word': 'San Antonio', 'tag': 'LOCATION'}, {'word': 'Waco, TX', 'tag': 'LOCATION'}, {'word': 'Baylor University', 'tag': 'ORG'}]","[('Trail Boss Titman', 'PERSON'), ('John D. Martin', 'PERSON'), ('San Antonio', 'LOCATION'), ('Waco, TX', 'LOCATION'), ('Baylor University', 'ORG')]"
+<26344564.1075861927387.JavaMail.evans@thyme>,"Before you leave today or first thing in the morning, please advise Bradford, Rohauer and Kitchen by email of the status of the particular master netting agreements on which you are working.  Barbara Gray is coordinating the release of the gas receivable financing so that we can execute the netting agreements and she will advise as and when finalized.  As previously noted today, the power receivable financing will be released as we sign the netting agreements on a counterparty-by-counterparty basis.
+
+
+
+Cordially,
+Mary Cook
+Enron North America Corp.
+1400 Smith, 38th Floor, Legal
+Houston, Texas 77002-7361
+(713) 345-7732
+(713) 646-3393 (fax)
+mary.cook@enron.com","[{'word': 'Bradford', 'tag': 'PERSON'}, {'word': 'Rohauer', 'tag': 'PERSON'}, {'word': 'Kitchen', 'tag': 'PERSON'}, {'word': 'Barbara Gray', 'tag': 'PERSON'}, {'word': 'Mary Cook', 'tag': 'PERSON'}, {'word': 'Houston, Texas', 'tag': 'LOCATION'}, {'word': 'Enron North America Corp.', 'tag': 'ORG'}]","[('Bradford', 'PERSON'), ('Rohauer', 'PERSON'), ('Kitchen', 'PERSON'), ('Barbara Gray', 'PERSON'), ('Mary Cook', 'PERSON'), ('Houston, Texas', 'LOCATION'), ('Enron North America Corp.', 'ORG')]"
+<22983757.1075840866816.JavaMail.evans@thyme>,"Louise,
+
+I am under the assumption that we should be moving forward with the sale of Pluto/MEGS to Duke Energy Field Services as well as the sale of the Napoleonville Land to Texas Brine.  In addition, I am trying to work out a transaction to sell the pad gas in Dow Wells 13 & 14 to an outside counterparty that would be leasing that storage capacity from Dow.
+
+Are there any types of transactions that would be ""inappropriate"" to close?  For example, if we do an outsourcing deal for three years, how do we know that Dynegy will honor the contract?
+
+Regards, Jean","[{'word': 'Louise', 'tag': 'PERSON'}, {'word': 'Duke Energy Field Services', 'tag': 'PERSON'}, {'word': 'Texas Brine', 'tag': 'PERSON'}, {'word': 'Jean', 'tag': 'PERSON'}, {'word': 'Dynegy', 'tag': 'PERSON'}, {'word': 'Pluto/MEGS', 'tag': 'LOCATION'}, {'word': 'Napoleonville Land', 'tag': 'LOCATION'}, {'word': 'Dow Wells 13 & 14', 'tag': 'LOCATION'}]","[('Louise', 'PERSON'), ('Duke Energy Field Services', 'PERSON'), ('Texas Brine', 'PERSON'), ('Jean', 'PERSON'), ('Dynegy', 'PERSON'), ('Pluto/MEGS', 'LOCATION'), ('Napoleonville Land', 'LOCATION'), ('Dow Wells 13 & 14', 'LOCATION')]"
+<28344498.1075851590405.JavaMail.evans@thyme>,"Hi Group,
+
+Need input for Lari as our ride approaches (Pat can you forward to Lu and
+ask him to reply to me).
+
+I know some of you have ridden with Lari many times, but her scheduler is
+facilitating this process and has asked for some information.  Please
+provide the following and I will batch and send to Lari:
+
+
+Years riding
+How often currently riding
+type of riding (i.e. English lessons, dressage, trail)
+type of saddle preferred
+age, height and weight
+
+
+Also, we initially planned on an all-day ride on Sat, and a four-hour ride
+on Sunday so we could all head back relatively early.  Lari would like to
+know where we want to ride on each day.  Nora is only riding for the
+four-hour ride, and prefers the beach.  How about an all-day ride in the
+redwoods on Saturday, with a four-hour beach ride on Sunday?
+
+
+Amy","[{'word': 'Lari', 'tag': 'PERSON'}, {'word': 'Pat', 'tag': 'PERSON'}, {'word': 'Lu', 'tag': 'PERSON'}, {'word': 'Nora', 'tag': 'PERSON'}, {'word': 'Amy', 'tag': 'PERSON'}, {'word': 'redwoods', 'tag': 'LOCATION'}, {'word': 'beach', 'tag': 'LOCATION'}]","[('Lari', 'PERSON'), ('Pat', 'PERSON'), ('Lu', 'PERSON'), ('Nora', 'PERSON'), ('Amy', 'PERSON'), ('redwoods', 'LOCATION'), ('beach', 'LOCATION')]"
+<22077205.1075863306548.JavaMail.evans@thyme>,"Reservation status has changed. Details of the reservation are listed below:
+ASSIGNMENTREF 7569
+SELLERCODE TEPC
+SELLERDUNS 006902704
+CUSTOMERCODE EPMI
+CUSTOMERDUNS 848921276
+AFFILIATEFLAG 0
+PATHNAME W/TEP/COR500SVL345/CORONADO-SPRINGERVILLE
+POINTOFRECEIPT CORONADO500
+POINTOFDELIVERY SPRINGER345
+SOURCE SRP
+SINK EPE
+CAPACITY 50
+CAPACITYREQUESTED 50
+SERVICEINCREMENT HOURLY
+TSCLASS NON-FIRM
+TSTYPE POINTTOPOINT
+TSPERIOD ONPEAK
+TSWINDOW FIXED
+TSSUBCLASS TRANS
+NERCCURTAILMENTPRIORITY Nerc Priority 1
+OTHERCURTAILMENTPRIORITY Default
+STARTTIME 07/30/2001
+STOPTIME 07/30/2001
+CEILINGPRICE 6.52
+OFFERPRICE 3.00
+BIDPRICE 3.00
+PRICEUNITS $/MWh
+PRECONFIRMED YES
+ANCSVCLINK N/A
+ANCSVCREQ N/A
+POSTINGREF 0
+SALEREF REQUESTREF DEALREF NEGOTIATEDPRICEFLAG STATUS CONFIRMED
+STATUSNOTIFICATION BILL.WILLIAMS.III@ENRON.COM
+STATUSCOMMENTS TIMEQUEUED 07/30/2001
+ 
+TIMEOFLASTUPDATE 07/30/2001
+PRIMARYPROVIDERCOMMENTS SELLERCOMMENTS CUSTOMERCOMMENTS SCHEDULE FROM HE14PPT TO HE17PPT
+SELLERNAME TEPC
+SELLERPHONE (520)745-7193
+SELLERFAX (520)571-4036
+SELLEREMAIL ChrisD@TucsonElectric.com
+CUSTOMERNAME Enron Power Marketing, Inc.
+CUSTOMERPHONE (713)853-3801
+CUSTOMERFAX (713)646-8272
+CUSTOMEREMAIL bill.rust@enron.com
+REASSIGNEDREF 0
+REASSIGNEDCAPACITY 0","[{'word': 'ChrisD', 'tag': 'PERSON'}, {'word': 'TucsonElectric', 'tag': 'PERSON'}, {'word': 'Enron Power Marketing, Inc.', 'tag': 'PERSON'}, {'word': 'bill.rust', 'tag': 'PERSON'}, {'word': '07/30/2001', 'tag': 'DATE'}, {'word': 'TEPC', 'tag': 'ORG'}, {'word': 'EPMI', 'tag': 'ORG'}]","[('ChrisD', 'PERSON'), ('TucsonElectric', 'PERSON'), ('Enron Power Marketing, Inc.', 'PERSON'), ('bill.rust', 'PERSON'), ('07/30/2001', 'DATE'), ('TEPC', 'ORG'), ('EPMI', 'ORG')]"
+<27787679.1075840389949.JavaMail.evans@thyme>,"In case there is any confusion who is your HR contact following the last 2 days headcount reductions, attached is a updated listing. I anticipate we will make further reductions in HR headcount in line with the wind down of operations but will obviously notify you of these ahead of time.
+
+The Asset team under Stan is not listed attached as it remains largely unchanged.
+
+The people listed attached will be lead by Robert Jones, VP of HR.  Robert, Mary Joyce and myself have set up central specialist HR support teams (not listed attached) based on the 16th floor of the old building to ensure that you and your HR leads have the resources and services they need to provide the necessary HR services for ongoing operations. 
+
+ 
+
+Please call Robert, Mary or me with any questions.
+
+David","[{'word': 'Robert Jones', 'tag': 'PERSON'}, {'word': 'Mary Joyce', 'tag': 'PERSON'}, {'word': 'Stan', 'tag': 'PERSON'}, {'word': 'David', 'tag': 'PERSON'}]","[('Robert Jones', 'PERSON'), ('Mary Joyce', 'PERSON'), ('Stan', 'PERSON'), ('David', 'PERSON')]"
+<9350980.1075843002390.JavaMail.evans@thyme>,"Is available: through Friday, Oct. 27
+Is located at: survey.enron.com
+
+
+You only have one more week to check your pulse.  Your input is crucial, soplease take a few minutes today to fill out Enron's annual employee feedback
+survey.  It is confidential and only takes about 10 minutes.  Give us yourhonest, candid feedback ) we need to know what you think and how you feel
+about your job and about Enron.
+
+It's important for you to know that we will respond actively to your
+comments.  We need your help not only to pinpoint and diagnose any existingproblems, but also to help us identify the best solutions.  Last year we
+formed action teams to address the issues that you indicated in the survey,so let us know if they have helped make Enron a better place to work.
+
+Again, please stop what you're doing for just a few minutes today and checkyour pulse.","[{'word': 'through Friday, Oct. 27', 'tag': 'DATE'}, {'word': 'Enron', 'tag': 'ORG'}]","[('through Friday, Oct. 27', 'DATE'), ('Enron', 'ORG')]"
+<2768174.1075845390327.JavaMail.evans@thyme>,"PRC TIME IS HERE!!
+
+There has been a very significant and positive change in the PRC Process!
+Your employee profile will now be viewed during PRC Meetings where you are represented.  Therefore, it is very important that you update your information in the eHRonline system before May 25, 2001.  
+
+Instructions on updating info. in eHRonline:  To get into the eHRonline system pull up the Enron Home Page and click on eHRonline.enron.com.  Your user name is your P# (i.e. P########) and your pass word is your designated eHRonline pass word (if you don't know this call 5-4727).  Once in eHRonline click on Profile Information and update the areas that are incorrect.
+
+If you have questions please call me @ 3-6019.
+Please forward this message to anyone who was not included in the distribution.","[{'word': 'before May 25, 2001', 'tag': 'DATE'}, {'word': 'PRC', 'tag': 'ORG'}, {'word': 'Enron', 'tag': 'ORG'}]","[('before May 25, 2001', 'DATE'), ('PRC', 'ORG'), ('Enron', 'ORG')]"
+<29058352.1075852647563.JavaMail.evans@thyme>,"Next Wednesday August 15, we will conclude orientation for the 70 new Associates who just joined our Program.  Attached you will find an invitation to a wrap-up dinner that evening at Ruggles-Enron Field.
+
+Members of the Program regularly tell us that senior level interaction is an area that we can improve on, so your participation in events like this very important.  If you plan to attend, please RSVP to Donna Jones on extension 33175 or Jackie Coleman on extension 54070.  As always, we appreciate your continued support of The Program.
+
+Regards,
+Billy  
+
+
+Distribution:
+Policy Committee
+A&A Committee (Western only)
+Recruiting Executive Leads","[{'word': 'Donna Jones', 'tag': 'PERSON'}, {'word': 'Jackie Coleman', 'tag': 'PERSON'}, {'word': 'Billy', 'tag': 'PERSON'}, {'word': 'Next Wednesday August 15', 'tag': 'DATE'}, {'word': 'Ruggles-Enron Field', 'tag': 'LOCATION'}, {'word': 'The Program', 'tag': 'ORG'}]","[('Donna Jones', 'PERSON'), ('Jackie Coleman', 'PERSON'), ('Billy', 'PERSON'), ('Next Wednesday August 15', 'DATE'), ('Ruggles-Enron Field', 'LOCATION'), ('The Program', 'ORG')]"
+<420846.1075841496885.JavaMail.evans@thyme>,"Dear Power Outage Database Customer, 
+Attached you will find an excel document. The outages contained within are rescheduled outages. Your daily delivery will still contain these outages. 
+In addition to the excel document, there is a dbf file that is formatted like the daily delivery you receive nightly. This will enable you to load the data into your regular database. Any questions please let me know. Thanks. 
+Greg Elliott 
+IIR, Inc. 
+713-783-5147 x 3481 
+outages@industrialinfo.com 
+THE INFORMATION CONTAINED IN THIS E-MAIL IS LEGALLY PRIVILEGED AND CONFIDENTIAL INFORMATION INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY NAMED ABOVE.  YOU ARE HEREBY NOTIFIED THAT ANY DISSEMINATION, DISTRIBUTION, OR COPY OF THIS E-MAIL TO UNAUTHORIZED ENTITIES IS STRICTLY PROHIBITED. IF YOU HAVE RECEIVED THIS E-MAIL IN ERROR, PLEASE DELETE IT. 
+ - OUTAGE.dbf 
+ - 122101.xls 
+ - 122101R.xls","[{'word': 'Greg Elliott', 'tag': 'PERSON'}, {'word': 'IIR, Inc.', 'tag': 'ORG'}]","[('Greg Elliott', 'PERSON'), ('IIR, Inc.', 'ORG')]"
+<27137131.1075860883651.JavaMail.evans@thyme>,"Attached is the land use category and constraint table that Jon Alstad has
+put together for the currently proposed route.  He and I both have been
+working on the briefing report (fatal flaw analysis), and this will be
+another part of it.  The text in the briefing report is not fully fleshed
+out and coherent at this point, primarily due to the unforeseen brush fires
+we've been putting out all week on the Red Rock project.  We hope to have it
+fleshed out and coherent on Monday.  Please call with any questions.
+
+Scott
+
+Scott J. Patti
+Senior Project Manager
+ENSR International
+1601 Prospect Parkway
+Fort Collins, CO  80525
+Phone: (970) 493-8878
+Fax:     (970) 493-0213
+Email:  spatti@ensr.com","[{'word': 'Jon Alstad', 'tag': 'PERSON'}, {'word': 'Scott J. Patti', 'tag': 'PERSON'}, {'word': 'on Monday', 'tag': 'DATE'}, {'word': 'Fort Collins, CO', 'tag': 'LOCATION'}, {'word': 'ENSR International', 'tag': 'ORG'}]","[('Jon Alstad', 'PERSON'), ('Scott J. Patti', 'PERSON'), ('on Monday', 'DATE'), ('Fort Collins, CO', 'LOCATION'), ('ENSR International', 'ORG')]"
+<1985189.1075844341960.JavaMail.evans@thyme>,"1.  At the end of the ""Notice of Exercise"" clause, ass""(but not both)""
+
+2.  Instead of ""Additional Provisions"", insert the following:
+
+Special Provisions:  Notwithstanding the foregoing, the exercise by the Buyer 
+of the option to enter into either Underlying Transaction I or Underlying 
+Transaction II is conditioned upon (i) the execution by the parties on or 
+before the Expiration Date of an ISDA Master Agreement and (ii) Enron Corp. 
+Risk Assessment and Control approval [of what?].  In the event that 
+either/both (?) condition is not satisfied prior to the Expiration Date, this 
+Transaction shall terminate on such date without further action or payment 
+required by either party.","[{'word': 'Enron Corp.', 'tag': 'ORG'}]","[('Enron Corp.', 'ORG')]"
+<31920773.1075844141518.JavaMail.evans@thyme>,"You're doing it again.  Scowling.  Is something bothering you?  Some business 
+problem you don't know how to solve?  Why don't you share it with eThink.  
+We're declaring a company-wide call for ""sticky wickets.""  Send your business 
+problem to ethink@enron.com.  We'll select a few and publish them in the next 
+eThink About It.  Then, your colleagues can post their suggestions in the 
+ThinkBank's Idea Vault, in the special categories we create for your issues.
+
+
+
+Don't miss experienceENRON on eSpeakTuesday, January 30 at 10:00 am Houston 
+time.  Carrie Robert, manager of experienceENRON, will answer your questions 
+about how this program can help your business development objectives.
+
+
+
+Last week was a busy one for eMeet.  The Office of the Chairman had some 
+things to say, and there was also a discussion about  the Black-Scholes value 
+of our EnronOptions.  Go to eMeet today and see what you missed last week!
+
+ethink.enron.com","[{'word': 'eThink', 'tag': 'PERSON'}, {'word': 'Carrie Robert', 'tag': 'PERSON'}, {'word': 'Tuesday, January 30', 'tag': 'DATE'}, {'word': 'Houston', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}]","[('eThink', 'PERSON'), ('Carrie Robert', 'PERSON'), ('Tuesday, January 30', 'DATE'), ('Houston', 'LOCATION'), ('Enron', 'ORG')]"
+<13951878.1075862102229.JavaMail.evans@thyme>,"It appears that our first game of the season will be tomorrow night at 8.45 pm.
+With all of the heavy rain we have had, there is a good chance that the game will be postponed.
+To verify, please call 281 398 2229 after 4.30 pm tomorrow.
+
+Please let me know if you will be able to play and can drive/need a ride.
+
+
+Time: 8.45 pm  Please show up by 8.20 pm
+Place: Cullen Park, Field B
+Opponent: Nito's Painting
+
+Note: You must wear shinguards in order to play!  Don't forget water.
+
+Directions to Cullen Park:
+Go west on I-10
+Pass Beltway 8 and Highway 6
+Exit at Barker Cypress
+Turn right (north) on Barker Cypress
+Turn left (west) at Saums (there will be a stop light at Saums)
+Go past the softball/baseball fields and turn left
+The soccer fields will be lighted.","[{'word': 'tomorrow night', 'tag': 'DATE'}, {'word': 'after 4.30 pm tomorrow', 'tag': 'DATE'}, {'word': 'Cullen Park', 'tag': 'LOCATION'}, {'word': 'Barker Cypress', 'tag': 'LOCATION'}, {'word': 'Saums', 'tag': 'LOCATION'}, {'word': ""Nito's Painting"", 'tag': 'ORG'}]","[('tomorrow night', 'DATE'), ('after 4.30 pm tomorrow', 'DATE'), ('Cullen Park', 'LOCATION'), ('Barker Cypress', 'LOCATION'), ('Saums', 'LOCATION'), (""Nito's Painting"", 'ORG')]"
+<16127792.1075858666881.JavaMail.evans@thyme>,"Hello Victor,  
+ 
+My name is Vini Adenwala, I'm doing some research for Narsimha Misra and Richard Ring for the East Power Risk Mgmt. Dept., and I wanted to ask you  for some information regarding our customers in Massachusetts.  I have a list of contracts here:
+
+1. Polaroid Corporation
+2. Quebecor Printing USA Corp.
+3. Simon Property Corp.
+4. Sonoco Products Co.
+5. Lucent Technologies Inc.
+6. Haverhill Police Station
+7. BICC General Cable Industries, Inc.
+
+What I need to get from you is a customer list along w/ their account #'s for each of these contracts, and Richard told me you were the person I should talk to.  If you could provide me with a list of the individuals responsible  for billing each account, or even the customer acct. #'s themselves, I would greatly appreciate it.  Thank you for your time and cooperation.
+
+Regards,
+
+Vinay Adenwala","[{'word': 'Vini Adenwala', 'tag': 'PERSON'}, {'word': 'Narsimha Misra', 'tag': 'PERSON'}, {'word': 'Richard Ring', 'tag': 'PERSON'}, {'word': 'Victor', 'tag': 'PERSON'}, {'word': 'Massachusetts', 'tag': 'LOCATION'}, {'word': 'Polaroid Corporation', 'tag': 'ORG'}, {'word': 'Quebecor Printing USA Corp.', 'tag': 'ORG'}, {'word': 'Simon Property Corp.', 'tag': 'ORG'}, {'word': 'Sonoco Products Co.', 'tag': 'ORG'}, {'word': 'Lucent Technologies Inc.', 'tag': 'ORG'}, {'word': 'Haverhill Police Station', 'tag': 'ORG'}, {'word': 'BICC General Cable Industries, Inc.', 'tag': 'ORG'}]","[('Vini Adenwala', 'PERSON'), ('Narsimha Misra', 'PERSON'), ('Richard Ring', 'PERSON'), ('Victor', 'PERSON'), ('Massachusetts', 'LOCATION'), ('Polaroid Corporation', 'ORG'), ('Quebecor Printing USA Corp.', 'ORG'), ('Simon Property Corp.', 'ORG'), ('Sonoco Products Co.', 'ORG'), ('Lucent Technologies Inc.', 'ORG'), ('Haverhill Police Station', 'ORG'), ('BICC General Cable Industries, Inc.', 'ORG')]"
+<13424172.1075842444315.JavaMail.evans@thyme>,"First of all, this is a brand-new contract, not a modification of one that 
+used to be IT.
+It's for LFT space that we have posted according to our usual procedure.  A 
+receipt point has now been specified:  Bloomfield Compressor.  Our tariff 
+allows us to cancel LFT up to 10 days a month, but it also provides that the 
+parties can agree that the number of days can be fewer, so Sempra negotiated 
+us down to only one day.  TK worked with Darrell Schoolcraft on this and they 
+determined this would be acceptable from an operational standpoint.  
+Scheduling will happen pursuant to the LFT priority set forth in our tariff.
+I left a message for you just now; call when you have a minute.
+
+
+
+
+Drew Fossum","[{'word': 'Darrell Schoolcraft', 'tag': 'PERSON'}, {'word': 'Drew Fossum', 'tag': 'PERSON'}, {'word': 'Sempra', 'tag': 'ORG'}]","[('Darrell Schoolcraft', 'PERSON'), ('Drew Fossum', 'PERSON'), ('Sempra', 'ORG')]"
+<21613256.1075860371787.JavaMail.evans@thyme>,"This incorporates what Mary and Don sent and should, subject to any
+revisions by Sarah, be close to the final product for posting and discussion
+next week.  Please let Sarah or me know if I missed anything or if you find
+any errors that should be corrected before  posting.  Thanks to everyone for
+helping put this together.  Regards, Paul
+
+  Paul B. Mohler
+ Attorney
+ HellerEhrman
+ 815 Connecticut Ave, NW, Suite 200
+ Washington, DC  20006-4004
+ Direct (202) 263-8953  Fax (202) 785-8877
+ E-mail: pmohler@hewm.com
+
+The information contained in this e-mail message  may be privileged,
+confidential and protected from disclosure.  If you are not the intended
+recipient, any dissemination, distribution or copying is strictly
+prohibited.  If you think that you have received this e-mail message in
+error,  please e-mail the sender at ""pmohler@hewm.com'.
+
+
+
+ - ADR Provision Options v2.rtf","[{'word': 'Mary', 'tag': 'PERSON'}, {'word': 'Don', 'tag': 'PERSON'}, {'word': 'Sarah', 'tag': 'PERSON'}, {'word': 'Paul B. Mohler', 'tag': 'PERSON'}, {'word': '815 Connecticut Ave, NW, Suite 200', 'tag': 'LOCATION'}, {'word': 'Washington, DC', 'tag': 'LOCATION'}, {'word': 'HellerEhrman', 'tag': 'ORG'}]","[('Mary', 'PERSON'), ('Don', 'PERSON'), ('Sarah', 'PERSON'), ('Paul B. Mohler', 'PERSON'), ('815 Connecticut Ave, NW, Suite 200', 'LOCATION'), ('Washington, DC', 'LOCATION'), ('HellerEhrman', 'ORG')]"
+<23793140.1075847387769.JavaMail.evans@thyme>,"Mark,
+
+    Thanks for the message.  I am standing by - and I have signature 
+authority,
+so I can turn around the NDA quickly.
+
+    Steve
+
+Mark.Greenberg@enron.com wrote:
+
+ Steve -
+
+ Sorry for the delay on this end.  I have been waiting for one approval on
+ the non-solicitation provision I had forwarded.  I would suggest inserting
+ the language I suggested (another copy of which is attached) and preparing
+ final documents.  I should know later today or tomorrow if I have final
+ approval.
+
+ Thanks again for the patience.
+
+ (See attached file: BEA - nonsolicit language.doc)
+
+ Mark
+ Senior Counsel, EWS
+ Phone:     713-345-8897
+ Facsimile: 713-646-3490
+ E-Mail:      Mark.Greenberg@enron.com
+
+   
+                                     Name: BEA - nonsolicit language.doc
+    BEA - nonsolicit language.doc    Type: Winword File (application/msword)
+                                 Encoding: base64
+
+ - steve.howarth.vcf","[{'word': 'Mark Greenberg', 'tag': 'PERSON'}, {'word': 'Steve', 'tag': 'PERSON'}, {'word': 'Mark', 'tag': 'PERSON'}, {'word': 'EWS', 'tag': 'ORG'}]","[('Mark Greenberg', 'PERSON'), ('Steve', 'PERSON'), ('Mark', 'PERSON'), ('EWS', 'ORG')]"
+<23035692.1075861943201.JavaMail.evans@thyme>,"I gather that Bob will be spending most of his time on the securities litigation.  Is it still possible to get a litigation manager to  handle EES matters.  I would hope we could use one of the EWS litigators, as we discussed earlier.  Having someone on the floor would be a definite plus as well. I had talked to Andy but  never finalized because of the crisis situation we are in.  My main concern is that the EES business not be allocated among numerous litigators so that we do have accountability  or take a back seat to other assignments.  Thanks.","[{'word': 'Bob', 'tag': 'PERSON'}, {'word': 'Andy', 'tag': 'PERSON'}, {'word': 'EWS', 'tag': 'ORG'}]","[('Bob', 'PERSON'), ('Andy', 'PERSON'), ('EWS', 'ORG')]"
+<23063110.1075856309795.JavaMail.evans@thyme>,"Find below a spreadsheet with my very rough calculation of the value of 
+credit support for MG and PaperCo.
+
+My approach is as follows:
+
+1.   Assume all contracts can be modelled as financial swaps.
+2.   Spread the notional trading volumes over the estimated swap tenors.
+3.   Calculate the value of defaulting at each period of the swap (the 
+default option)  using Black's formula.
+4.   Treat the value of the default options as risky cash flows.  That is 
+treat this value just like you would an annuity stream.  By discounting back 
+this stream of cash flows at the original risky rate and at the risk-reduced 
+rate, I find the value of credit enhancement as the difference in the two 
+NPV's.
+
+Please give your comments, especially if this makes no sense to you.
+
+Stinson","[{'word': 'MG', 'tag': 'PERSON'}, {'word': 'PaperCo', 'tag': 'PERSON'}, {'word': 'Stinson', 'tag': 'PERSON'}]","[('MG', 'PERSON'), ('PaperCo', 'PERSON'), ('Stinson', 'PERSON')]"
+<15150128.1075840891240.JavaMail.evans@thyme>,"I told DWR that Enron is not comfortable with the risk/reward of the transaction.  They are reviewing the following modification:
+ 
+April Price: $200
+May and beyond: $127
+7 day payments through April 30
+Standard EEI payment terms thereafter
+Credit for Feb, Mar, April ($17MM) paid 7 days after investment grade bonds are issued 
+ENA has right to walk at any time for any reason up until the earlier of 7 days after bonds issued or Sep 1
+Cal Reg Out (with termination payment) modified to include ballott initiatives and CPUC orders
+
+This is effectively a $5MM premium for a 4MMMwhr put swaption 
+
+I will update when I hear back from them.","[{'word': 'DWR', 'tag': 'PERSON'}, {'word': 'Enron', 'tag': 'PERSON'}]","[('DWR', 'PERSON'), ('Enron', 'PERSON')]"
+<32527514.1075852858237.JavaMail.evans@thyme>,"Hi Jeff,
+
+Laird gave me your name and number so that I can pass on notional price information that you asked for.  Let me know anytime you need to see our price indications and I will do what I can to help you.  I know that Laird has worked with you guys extensively.  The prices that he said you were looking at are listed below and are based on PG&E City gate prices:
+
+Q4, 2001                			    $11.70
+2 years - Jan. 2002-Dec 2003		    $ 6.80
+5 years - Jan. 2002-Dec 2006		    $ 5.85
+Oct. 2001 - Dec. 2003	  		    $ 7.38
+
+I tried to call but it was after hours for you.  Give me a call and let me know where you are with your gas supply negotiations and I will try to pick up where Laird left off.
+
+Regards,
+
+Kim Ward
+713-853-0685","[{'word': 'Jeff', 'tag': 'PERSON'}, {'word': 'Laird', 'tag': 'PERSON'}, {'word': 'Kim Ward', 'tag': 'PERSON'}, {'word': 'Q4, 2001', 'tag': 'DATE'}, {'word': 'Jan. 2002-Dec 2003', 'tag': 'DATE'}, {'word': 'Jan. 2002-Dec 2006', 'tag': 'DATE'}, {'word': 'Oct. 2001 - Dec. 2003', 'tag': 'DATE'}, {'word': 'PG&E', 'tag': 'ORG'}]","[('Jeff', 'PERSON'), ('Laird', 'PERSON'), ('Kim Ward', 'PERSON'), ('Q4, 2001', 'DATE'), ('Jan. 2002-Dec 2003', 'DATE'), ('Jan. 2002-Dec 2006', 'DATE'), ('Oct. 2001 - Dec. 2003', 'DATE'), ('PG&E', 'ORG')]"
+<7608819.1075840972200.JavaMail.evans@thyme>,"Tired of slow downloads? 
+Tired of slow downloads? Webpages taking forever
+to load ? ModemMax will have you Surfing the
+Internet at Blazing Speeds in seconds without the
+expense of adding hardware. Boost your internet
+connection up to 300%!!! Easy to set up!! Our
+program optimizes DIAL-UP(56k), DSL And CABLE
+Modems. You will get much faster response times,
+downloads, and file tranfers. Our Software comes
+with a RISK FREE 30-Day Money Back Guarantee,
+and lifetime free updates! No monthly charges!  Click Here!! 
+ You  are subscribed to the RealBigWinners.com newsletter as: andrew.h.lewis@enron.com  If you wish to unsubscribe please click the link below:    Click Here to Unsubscribe","[{'word': 'ModemMax', 'tag': 'ORG'}, {'word': 'DIAL-UP', 'tag': 'ORG'}, {'word': 'DSL', 'tag': 'ORG'}, {'word': 'CABLE Modems', 'tag': 'ORG'}, {'word': 'RealBigWinners.com', 'tag': 'ORG'}]","[('ModemMax', 'ORG'), ('DIAL-UP', 'ORG'), ('DSL', 'ORG'), ('CABLE Modems', 'ORG'), ('RealBigWinners.com', 'ORG')]"
+<1111755.1075860898863.JavaMail.evans@thyme>,"Howdy Kimbo!  Hope all is well.
+
+I did not receive the job announcement we spoke about.  I thought maybe the e-mail address I gave you did not get relayed accurately, so I thought I would send you a note.  Maybe you could attach the announcement to this and respond.
+
+You were so very right in what you said the other night.  There definitely is a new day each day with the Enrongate.  Hang in there.  The callous few will not ruin everything for everyone else.  It seems bad now, but I have faith that something good will come from all of this.  
+
+Thanks for thinking of me with the job.  I'll let you know what I do.
+
+Kyle","[{'word': 'Kimbo', 'tag': 'PERSON'}, {'word': 'Kyle', 'tag': 'PERSON'}]","[('Kimbo', 'PERSON'), ('Kyle', 'PERSON')]"
+<23021068.1075859907123.JavaMail.evans@thyme>,"Just a few comments on the Text:
+
+You may wish to specify throughout that all time references are to ""GMT""
+The examples given for the offline nominations procedures imply that 
+nominations/re-nominations made by the customer are NOT effective until Enron 
+has  responded affirmatively - this is not how the underlying GTC reads 
+(under which such customer nominations/re-nominations become effective 
+without subsequent Enron's ""confirmation"")
+On the last page , I would remove the reference to a Master, since this does 
+not currently apply to EnBank trades
+Presumably , you are not now proceeding on the basis of a separate ATA (i.e. 
+Auctions Trading Agreement governing EOL access)?
+
+Otherwise, I am happy with the form of Text.
+
+Justin
+
+
+
+
+
+
+Haakon Olafsson","[{'word': 'Justin', 'tag': 'PERSON'}, {'word': 'Haakon Olafsson', 'tag': 'PERSON'}, {'word': 'Enron', 'tag': 'ORG'}, {'word': 'EnBank', 'tag': 'ORG'}]","[('Justin', 'PERSON'), ('Haakon Olafsson', 'PERSON'), ('Enron', 'ORG'), ('EnBank', 'ORG')]"
+<4850858.1075840504354.JavaMail.evans@thyme>,"fyi,
+
+i added the producer selected reallocation date to the spreadsheet you provided and renamed it dtidec01split1.   As we discussed there were a number of meters that were not listed in your spreadsheet.  I also found one counterparty that had a different producer date than pipeline date.   That counterparty was Elvis Energy.   The list of meters not in your file are listed below.
+
+Counterparty				Meter
+
+Commonwealth 				4078701
+Creston Well Service			3329701
+					3053001
+D.G.Haney				Q60047
+Southern Triangle Oil			4050001
+					4058001
+					4143601
+Pentex Energy				4102601
+Exploration Partners			letter with selected date but no meters
+Braxton Oil & Gas			""""
+Burgly R&K Oil				""""
+Long Ridge Farm Energy 		3131701
+Triad 					3420401
+Willowbend Operating Co.		3508401
+					3507901
+					3427001
+					3507801
+Garnet Vielers				3190601
+EOG Resources, Inc.			letter with selected date but no meters
+Perkins Oil & Gas			letter with selected date but no meters","[{'word': 'Elvis Energy', 'tag': 'PERSON'}, {'word': 'Commonwealth', 'tag': 'ORG'}, {'word': 'Creston Well Service', 'tag': 'ORG'}, {'word': 'D.G.Haney', 'tag': 'ORG'}, {'word': 'Southern Triangle Oil', 'tag': 'ORG'}, {'word': 'Pentex Energy', 'tag': 'ORG'}, {'word': 'Exploration Partners', 'tag': 'ORG'}, {'word': 'Braxton Oil & Gas', 'tag': 'ORG'}, {'word': 'Burgly R&K Oil', 'tag': 'ORG'}, {'word': 'Long Ridge Farm Energy', 'tag': 'ORG'}, {'word': 'Triad', 'tag': 'ORG'}, {'word': 'Willowbend Operating Co.', 'tag': 'ORG'}, {'word': 'Garnet Vielers', 'tag': 'ORG'}, {'word': 'EOG Resources, Inc.', 'tag': 'ORG'}, {'word': 'Perkins Oil & Gas', 'tag': 'ORG'}]","[('Elvis Energy', 'PERSON'), ('Commonwealth', 'ORG'), ('Creston Well Service', 'ORG'), ('D.G.Haney', 'ORG'), ('Southern Triangle Oil', 'ORG'), ('Pentex Energy', 'ORG'), ('Exploration Partners', 'ORG'), ('Braxton Oil & Gas', 'ORG'), ('Burgly R&K Oil', 'ORG'), ('Long Ridge Farm Energy', 'ORG'), ('Triad', 'ORG'), ('Willowbend Operating Co.', 'ORG'), ('Garnet Vielers', 'ORG'), ('EOG Resources, Inc.', 'ORG'), ('Perkins Oil & Gas', 'ORG')]"
+<25684069.1075857172662.JavaMail.evans@thyme>,"Attached please find the 2000 Weekly cost reports.  
+
+
+
+Please make note that there are upward forecast changes with respect to the 
+Nepco reimbursables.  In the case of Lincoln center Nepco increased their 
+Current Forecast over the last few months to $11million over original 
+budget.  Dave Kristich has been and is currently in the process of reviewing 
+and questioning every line item in all scope changes.  According to Dave, the 
+Nepco forecast will be coming down once he has had a chance to do a complete 
+analysis and Nepco has had a chance to revise/correct the scope changes.
+
+
+Mike,
+Through 12/99 ENA has paid Nepco $30.7 million in reimbursable dollars, with 
+Nepco showing actuals of $6 million spent through 11/99.  Essentially ENA has 
+fronted Nepco $24 million to cover December's bills.
+
+If you have any questions, please give me a call.  Thanks Amy 3-7805","[{'word': 'Dave Kristich', 'tag': 'PERSON'}, {'word': 'Mike', 'tag': 'PERSON'}, {'word': 'Amy', 'tag': 'PERSON'}, {'word': '2000', 'tag': 'DATE'}, {'word': 'last few months', 'tag': 'DATE'}, {'word': 'through 12/99', 'tag': 'DATE'}, {'word': 'through 11/99', 'tag': 'DATE'}, {'word': ""December's"", 'tag': 'DATE'}, {'word': 'Lincoln center', 'tag': 'LOCATION'}, {'word': 'Nepco', 'tag': 'ORG'}, {'word': 'ENA', 'tag': 'ORG'}]","[('Dave Kristich', 'PERSON'), ('Mike', 'PERSON'), ('Amy', 'PERSON'), ('2000', 'DATE'), ('last few months', 'DATE'), ('through 12/99', 'DATE'), ('through 11/99', 'DATE'), (""December's"", 'DATE'), ('Lincoln center', 'LOCATION'), ('Nepco', 'ORG'), ('ENA', 'ORG')]"
+<24364520.1075859971830.JavaMail.evans@thyme>,"Attached is a draft of an ""Exclusivity Agreement"" in connection with your 
+development of the capacity product trading website.   It is a little bit 
+longer than I anticipated, but I think it includes everything we need (the 
+bulk of the provisions deal with confidentiality obligations).  Please 
+contact me with any comments or questions regarding the attached.  Please 
+note that for those pipelines affiliated with Enron, we would simply add 
+EnronOnline as an additional exception to the definition of ""Competing 
+System.""
+
+
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490","[{'word': 'Travis McCullough', 'tag': 'PERSON'}, {'word': '1400 Smith Street EB 3817', 'tag': 'LOCATION'}, {'word': 'Houston Texas 77002', 'tag': 'LOCATION'}, {'word': 'Enron North America Corp.', 'tag': 'ORG'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Travis McCullough', 'PERSON'), ('1400 Smith Street EB 3817', 'LOCATION'), ('Houston Texas 77002', 'LOCATION'), ('Enron North America Corp.', 'ORG'), ('Enron', 'ORG')]"
+<6511549.1075854164247.JavaMail.evans@thyme>,"Megan, 
+
+For 8/1/00, allocate the receipt of gas a Cotton Valley to the exchange 
+deal.  Since we did not deliver anything to them on that day, the settlement 
+will occur at GD-.10.  Originally, we were working on a spot deal for this 
+day.  Then, after the fact, we agreed to let the deal fall out under the 
+exchagne deal.  I apparantly forgot to change the deal ticket.
+
+For the weekend of 8/5, we need to prorate the gas over the weekend.  Due to 
+operational issues, we agreed to receive gas all weekend and batch the 
+deliveries on Monday.  I apologize for not getting this info to you earlier.
+
+D
+
+
+   
+	Enron North America Corp.","[{'word': 'Megan', 'tag': 'PERSON'}, {'word': '8/1/00', 'tag': 'DATE'}, {'word': '8/5', 'tag': 'DATE'}, {'word': 'weekend', 'tag': 'DATE'}, {'word': 'Monday', 'tag': 'DATE'}, {'word': 'Enron North America Corp.', 'tag': 'ORG'}]","[('Megan', 'PERSON'), ('8/1/00', 'DATE'), ('8/5', 'DATE'), ('weekend', 'DATE'), ('Monday', 'DATE'), ('Enron North America Corp.', 'ORG')]"
+<12210870.1075856651842.JavaMail.evans@thyme>,"Dr. Kaminski:
+
+Thanks very much for taking the time to talk with me about my
+electricity model when you visited Carnegie Mellon. (I was the PhD
+student in Finance who had a two-factor model for pricing
+electricity. My model incorporated strategic behaviour and varying
+price elasticities across different consumers of electricity). While here,
+you mentioned the possibility of further developing my model at Enron.
+One avenue you suggested was through the summer internship program at
+Enron. If this is still an option, I would very much like to talk with you
+or one of your associates about working with or at Enron on my model.
+
+I can be reached by phone at (412) 683-9085.
+
+
+Sincerely,
+
+ Aziz A. Lookman
+Graduate School of Industrial Administration
+5000 Forbes Avenue
+Carnegie Mellon University
+Pittsburgh, PA 15213
+Tel: 412-268-3681
+Fax: 412-268-6837
+(pls. mark the fax c/o Jackie Cavendish)","[{'word': 'Dr. Kaminski', 'tag': 'PERSON'}, {'word': 'Aziz A. Lookman', 'tag': 'PERSON'}, {'word': 'Jackie Cavendish', 'tag': 'PERSON'}, {'word': 'Carnegie Mellon University', 'tag': 'LOCATION'}, {'word': 'Pittsburgh, PA 15213', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Dr. Kaminski', 'PERSON'), ('Aziz A. Lookman', 'PERSON'), ('Jackie Cavendish', 'PERSON'), ('Carnegie Mellon University', 'LOCATION'), ('Pittsburgh, PA 15213', 'LOCATION'), ('Enron', 'ORG')]"
+<30468634.1075852787001.JavaMail.evans@thyme>,"Joe,
+I recieved your e-mail, I will read it over and give a response to it
+tomorrow.
+
+This is what I propose to you regarding payment for the nine months:
+
+Since you did not incur any medical expenses, knowing what they could of
+been I would like;
+
+Attorney fees both Florida & Texas        $9500.00
+(not including Texas fees for 8/1 and forward to finalize our case)
+Back child support for 2 1/2 months        $2500.00
+Half of what expenses I incurred getting ready for Payton (crib, swing,
+stroller, car seat etc., etc.,)    $1500.00
+
+I know that incurredmore expenses than this (going back & forth to doctor,
+lost wages at work, etc.)
+
+Please let me know whst your thoughts are.
+
+Tonya","[{'word': 'Joe', 'tag': 'PERSON'}, {'word': 'Tonya', 'tag': 'PERSON'}]","[('Joe', 'PERSON'), ('Tonya', 'PERSON')]"
+<30839089.1075841317720.JavaMail.evans@thyme>,"Gabrielle Hagele, UBS Warburg, will be in Portland on Friday, February 8, 2002 to present information on UBS benefits for those who missed the previous information sessions. 
+ 
+Date: 		Friday, February 8th, 2002
+Location:	Mt Hood
+Time:		10:00 am to 12:00 pm 
+
+Please try to attend this additional session as valuable information will be presented, and you will have the opportunity to get answers to your questions.  
+
+Attached are the forms that you will need to complete and hand in, if you have not done so already.  
+
+Please let me know if you will not be able to attend this session.
+
+Kind regards -
+Amy","[{'word': 'Gabrielle Hagele', 'tag': 'PERSON'}, {'word': 'Amy', 'tag': 'PERSON'}, {'word': 'Friday, February 8, 2002', 'tag': 'DATE'}, {'word': 'Portland', 'tag': 'LOCATION'}, {'word': 'Mt Hood', 'tag': 'LOCATION'}, {'word': 'UBS Warburg', 'tag': 'ORG'}]","[('Gabrielle Hagele', 'PERSON'), ('Amy', 'PERSON'), ('Friday, February 8, 2002', 'DATE'), ('Portland', 'LOCATION'), ('Mt Hood', 'LOCATION'), ('UBS Warburg', 'ORG')]"
+<10225950.1075844342195.JavaMail.evans@thyme>,"Patricia:  Thanks very much for your quick response.  I would very much like 
+to solicit your help in arranging some meetings when Lynn Aven (tax) and I 
+visit BA in two weeks.  We definitely want to meet with one or more members 
+of the ADA who are responsible for drafting and implementing the new 
+agreement.  And your suggestion to meet with your colleague who has been 
+lobbying for derivatives tax legislation is one we readily accept.  Could you 
+possible try to schedule these for convenient times on Tuesday and Wednesday, 
+February 29 and March 1, respectively?  I will be out of the office tomorrow 
+but in next week.  Enron is closed on Monday,  February 21 for President's 
+Day.  Let me know if you would like to speak directly of if I can assist in 
+any way.  Looking forward to our visit.  Sara","[{'word': 'Lynn Aven', 'tag': 'PERSON'}, {'word': 'ADA', 'tag': 'PERSON'}, {'word': 'Sara', 'tag': 'PERSON'}, {'word': 'in two weeks', 'tag': 'DATE'}, {'word': 'on Tuesday and Wednesday, February 29 and March 1', 'tag': 'DATE'}, {'word': 'next week', 'tag': 'DATE'}, {'word': 'Monday, February 21', 'tag': 'DATE'}, {'word': 'BA', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Lynn Aven', 'PERSON'), ('ADA', 'PERSON'), ('Sara', 'PERSON'), ('in two weeks', 'DATE'), ('on Tuesday and Wednesday, February 29 and March 1', 'DATE'), ('next week', 'DATE'), ('Monday, February 21', 'DATE'), ('BA', 'LOCATION'), ('Enron', 'ORG')]"
+<23231393.1075841998636.JavaMail.evans@thyme>,"Hi girls!  Just wanted everyone to check their
+calendars for some upcoming events.  Madeline's
+baptism is going to be Saturday, April 6th during the
+5:30pm mass.  We plan on having a little celebration
+at our house afterwards.  If you can't make it, we
+understand, but we'd love to have you come.
+
+We talked about doing Stacey's baby shower the next
+weekend, April 13 at Kathy's house.  Does that date
+still work for everyone?  Let us know soon so we can
+start making plans.
+
+Talk to you soon.
+Angela
+
+P.S. for Chris - If you think you can come for one of
+the weekends, you should choose Stacey's shower - it
+won't hurt my feelings!  :)
+
+Angela & Brad McDonald
+ABMcDon@yahoo.com
+
+
+Do You Yahoo!?
+Send FREE Valentine eCards with Yahoo! Greetings!
+http://greetings.yahoo.com","[{'word': 'Madeline', 'tag': 'PERSON'}, {'word': 'Stacey', 'tag': 'PERSON'}, {'word': 'Kathy', 'tag': 'PERSON'}, {'word': 'Angela', 'tag': 'PERSON'}, {'word': 'Chris', 'tag': 'PERSON'}, {'word': 'Brad McDonald', 'tag': 'PERSON'}, {'word': 'Saturday, April 6th', 'tag': 'DATE'}, {'word': 'next weekend, April 13', 'tag': 'DATE'}]","[('Madeline', 'PERSON'), ('Stacey', 'PERSON'), ('Kathy', 'PERSON'), ('Angela', 'PERSON'), ('Chris', 'PERSON'), ('Brad McDonald', 'PERSON'), ('Saturday, April 6th', 'DATE'), ('next weekend, April 13', 'DATE')]"
+<2731828.1075858328197.JavaMail.evans@thyme>,"Debbie,
+I spoke with Robin, and from what we know Canada officializes one calc that 
+includes both their price and basis positions.  (Calc is represented by the 
+orange)    However, Risktrac only recognizes the book id to which it assigns 
+the post id. (It appears that it is only the PRC book that comes through, the 
+BAS book is represented by the red ""x"", however it is in the same calc.).  
+Since the Canadian post id only includes two books ids,  the Benchmark group 
+manually assign the same post id to the basis book, that way both books get 
+picked up.
+
+Does this help?
+
+Frank","[{'word': 'Debbie', 'tag': 'PERSON'}, {'word': 'Robin', 'tag': 'PERSON'}, {'word': 'Frank', 'tag': 'PERSON'}, {'word': 'Risktrac', 'tag': 'ORG'}, {'word': 'Benchmark', 'tag': 'ORG'}]","[('Debbie', 'PERSON'), ('Robin', 'PERSON'), ('Frank', 'PERSON'), ('Risktrac', 'ORG'), ('Benchmark', 'ORG')]"
+<5425573.1075858452271.JavaMail.evans@thyme>,"INTERNATIONAL DRIVER'S LICENSE
+
+Need a new driver's license?
+
+Too many points or other trouble?
+
+Want a license that can never be suspended
+or revoked?
+
+Want an ID for nightclubs or hotel check-in?
+
+Avoid tickets, fines, and mandatory driver's
+education.
+
+Protect your privacy, and hide your identity.
+
+The United Nations gave you the privilege to
+drive freely throughout the world! (Convention
+on International Road Traffic of September 19,
+1949 & World Court Decision, The Hague,
+Netherlands, January 21, 1958)
+
+Take advantage of your rights. Order a valid
+International Driver's License that can never
+be suspended or revoked.
+
+Confidentiality assured.
+
+CALL NOW!!!
+
+1-770-908-3949
+
+We await your call seven days a week, 24 hours a day,
+including Sundays and holidays.
+
+To be removed from future mailings reply swith remove as the subject.
+
+**********","[{'word': 'September 19, 1949', 'tag': 'DATE'}, {'word': 'January 21, 1958', 'tag': 'DATE'}, {'word': 'United Nations', 'tag': 'ORG'}]","[('September 19, 1949', 'DATE'), ('January 21, 1958', 'DATE'), ('United Nations', 'ORG')]"
+<5949058.1075860360683.JavaMail.evans@thyme>,"Tracy,
+
+Just to follow up.
+
+Ron and I discussed this some more and decided that we should file re 
+condition #3 which could be read to allow the utilities to use a third 
+party's credit standing without that parties' permission.  As you noticed, it 
+was very difficult to discern what was going on with that language as 
+drafted.  
+
+The filing is due tomorrow.
+
+Joe, Ray and others:
+
+This is in response to a compliance filing made by the ISO w.r.t. FERC's 2/14 
+order on creditworthiness.  The ISO is attempting to expand what FERC allowed 
+it to do.  Surprise! I'll be putting in an RCR for $1500 for this.
+
+Sue Mara
+Enron Corp.
+Tel: (415) 782-7802
+Fax:(415) 782-7854","[{'word': 'Tracy', 'tag': 'PERSON'}, {'word': 'Ron', 'tag': 'PERSON'}, {'word': 'Joe', 'tag': 'PERSON'}, {'word': 'Ray', 'tag': 'PERSON'}, {'word': 'Sue Mara', 'tag': 'PERSON'}, {'word': 'tomorrow', 'tag': 'DATE'}, {'word': '2/14', 'tag': 'DATE'}, {'word': 'Enron Corp.', 'tag': 'ORG'}]","[('Tracy', 'PERSON'), ('Ron', 'PERSON'), ('Joe', 'PERSON'), ('Ray', 'PERSON'), ('Sue Mara', 'PERSON'), ('tomorrow', 'DATE'), ('2/14', 'DATE'), ('Enron Corp.', 'ORG')]"
+<24789103.1075846072207.JavaMail.evans@thyme>,"Gentlemen,
+
+As Dave and John know, I'm working on a deal for ENA (and with Jude) which 
+has as one aspect a cost plus EPC contract for the construction of a power 
+plant.  We need to put together the T's and C's for a cost plus contract, and 
+since it is possible that NEPCO might be the contractor, I wanted to use 
+something that is acceptable to NEPCO.  I will then take the laboring oar in 
+order to get a working draft prepared for this project.
+
+As always, I'm on a short time frame, so your response would be appreciated.
+
+Thanks,
+
+Kay","[{'word': 'Dave', 'tag': 'PERSON'}, {'word': 'John', 'tag': 'PERSON'}, {'word': 'Jude', 'tag': 'PERSON'}, {'word': 'NEPCO', 'tag': 'PERSON'}, {'word': 'Kay', 'tag': 'PERSON'}, {'word': 'ENA', 'tag': 'ORG'}]","[('Dave', 'PERSON'), ('John', 'PERSON'), ('Jude', 'PERSON'), ('NEPCO', 'PERSON'), ('Kay', 'PERSON'), ('ENA', 'ORG')]"
+<26780032.1075852651219.JavaMail.evans@thyme>,"Dear HAN Members:
+ 
+Don't forget that the HAN (Houston Angel Network) meeting will be held this Wednesday, July 18th, at the Houstonian.  Check-in begins at 7:00 a.m. and the breakfast/meeting will be held from 7:30-9:00 a.m.  Come and learn about HAN milestones met and future direction for the group.
+ 
+Price to attend is $45 payable in advance by check or credit card.  Please R.S.V.P. to Kathy Nethercutt: knethercutt@houstontech.org or call (713) 658-1750, by no later than 4:00 p.m., Tuesday, July 17.
+ 
+Thanks,
+Glenn Dubin
+ 
+ 
+ 
+ 
+Thank you for your interest in the Houston Technology Center
+ 
+Kathy B. Nethercutt
+Houston Technology Center
+1200 Smith, Suite 2940
+Houston, TX 77002
+Ph: 713.658.1750
+Fx: 713.658.1744
+www.houstontech.org
+knethercutt@houstontech.org","[{'word': 'HAN Members', 'tag': 'PERSON'}, {'word': 'Kathy Nethercutt', 'tag': 'PERSON'}, {'word': 'Glenn Dubin', 'tag': 'PERSON'}, {'word': 'this Wednesday, July 18th', 'tag': 'DATE'}, {'word': 'by no later than 4:00 p.m., Tuesday, July 17', 'tag': 'DATE'}, {'word': 'Houstonian', 'tag': 'LOCATION'}, {'word': 'Houston Technology Center', 'tag': 'LOCATION'}, {'word': '1200 Smith, Suite 2940, Houston, TX 77002', 'tag': 'LOCATION'}, {'word': 'HAN (Houston Angel Network)', 'tag': 'ORG'}, {'word': 'Houston Technology Center', 'tag': 'ORG'}]","[('HAN Members', 'PERSON'), ('Kathy Nethercutt', 'PERSON'), ('Glenn Dubin', 'PERSON'), ('this Wednesday, July 18th', 'DATE'), ('by no later than 4:00 p.m., Tuesday, July 17', 'DATE'), ('Houstonian', 'LOCATION'), ('Houston Technology Center', 'LOCATION'), ('1200 Smith, Suite 2940, Houston, TX 77002', 'LOCATION'), ('HAN (Houston Angel Network)', 'ORG'), ('Houston Technology Center', 'ORG')]"
+<28658103.1075844695217.JavaMail.evans@thyme>,"Michael:
+
+Attached for your immediate review is the form of Enron Corp. (""Enron"") 
+guaranty which would be utilized to guaranty all financial trading 
+obligations pursuant to an ISDA Master Agreement and transactions thereunder 
+which would be entered into between Enron North America Corp. and ANZ Bank.  
+Jason Williams (in Enron's risk control group) asked that you receive a copy 
+of Enron's form of guaranty if you had not already received one.  We are in 
+the process of preparing a draft ISDA Master Agreement  and will forward it 
+to you next week.  Please let us know if you have any questions.
+
+
+Samantha M. Boyd
+Sr. Legal Specialist
+Enron North America Corp.
+1400 Smith, EB3802A
+Houston, TX  77002
+Phone:  (713) 853-9188
+Fax:  (713) 646-3490
+email:  samantha.boyd@enron.com","[{'word': 'Michael', 'tag': 'PERSON'}, {'word': 'Jason Williams', 'tag': 'PERSON'}, {'word': 'Samantha M. Boyd', 'tag': 'PERSON'}, {'word': 'Enron Corp.', 'tag': 'LOCATION'}, {'word': 'Enron North America Corp.', 'tag': 'LOCATION'}, {'word': 'ANZ Bank', 'tag': 'LOCATION'}, {'word': 'Houston, TX', 'tag': 'LOCATION'}]","[('Michael', 'PERSON'), ('Jason Williams', 'PERSON'), ('Samantha M. Boyd', 'PERSON'), ('Enron Corp.', 'LOCATION'), ('Enron North America Corp.', 'LOCATION'), ('ANZ Bank', 'LOCATION'), ('Houston, TX', 'LOCATION')]"
+<24756853.1075858612157.JavaMail.evans@thyme>,"We have been asked by our commercial people to advise them with respect to legal issues surrounding the online trading of forest products in the following Asian countries: Japan/ The Phillipines/ Taiwan/ The Peoples Republic of China/  Thailand/ Singapore/ India/ Malaysia/ Indonesia/ Australia/ New Zealand/ Vietnam/ Hong Kong...They are focused on two issues..what do we need to do to give customers access to our online trading platform and what do  we need to do to allow them to execute transactions on our platform...the can of worms is, of course,  much bigger than those seemingly simple questions,  such as in terms of tax issues, regulation and ""doing business"" issues, FCPA, etc, etc....If any of you have any existing research that might help us or a suggestion for appropriate counsel, please contact me or Deb Korkmas...Thanks","[{'word': 'Deb Korkmas', 'tag': 'PERSON'}, {'word': 'Japan', 'tag': 'LOCATION'}, {'word': 'The Phillipines', 'tag': 'LOCATION'}, {'word': 'Taiwan', 'tag': 'LOCATION'}, {'word': 'The Peoples Republic of China', 'tag': 'LOCATION'}, {'word': 'Thailand', 'tag': 'LOCATION'}, {'word': 'Singapore', 'tag': 'LOCATION'}, {'word': 'India', 'tag': 'LOCATION'}, {'word': 'Malaysia', 'tag': 'LOCATION'}, {'word': 'Indonesia', 'tag': 'LOCATION'}, {'word': 'Australia', 'tag': 'LOCATION'}, {'word': 'New Zealand', 'tag': 'LOCATION'}, {'word': 'Vietnam', 'tag': 'LOCATION'}, {'word': 'Hong Kong', 'tag': 'LOCATION'}]","[('Deb Korkmas', 'PERSON'), ('Japan', 'LOCATION'), ('The Phillipines', 'LOCATION'), ('Taiwan', 'LOCATION'), ('The Peoples Republic of China', 'LOCATION'), ('Thailand', 'LOCATION'), ('Singapore', 'LOCATION'), ('India', 'LOCATION'), ('Malaysia', 'LOCATION'), ('Indonesia', 'LOCATION'), ('Australia', 'LOCATION'), ('New Zealand', 'LOCATION'), ('Vietnam', 'LOCATION'), ('Hong Kong', 'LOCATION')]"
+<11044222.1075841521893.JavaMail.evans@thyme>,"Heather,
+
+  Do you know :
+  If there are 3 strips in a deal that cover different time periods, say April 1 for a strip, April 2 for another strip, and April 3 - 31 for a third strip....if we plug in a price on only one of the strips, are the days from the other strips going to get valued properly?  
+
+ In the instances that we have had, all three strips were filled in and Risk valued the deal properly; it was just CARP and UNIFY that were reading three times the MW Month amount, which I guess in the end is a simple problem.
+
+ Holden brought up this point and I wonder the same...do you know?
+
+  Virginia","[{'word': 'Heather', 'tag': 'PERSON'}, {'word': 'Holden', 'tag': 'PERSON'}, {'word': 'Virginia', 'tag': 'PERSON'}, {'word': 'CARP', 'tag': 'ORG'}, {'word': 'UNIFY', 'tag': 'ORG'}]","[('Heather', 'PERSON'), ('Holden', 'PERSON'), ('Virginia', 'PERSON'), ('CARP', 'ORG'), ('UNIFY', 'ORG')]"
+<3383567.1075842931585.JavaMail.evans@thyme>,"I have attached AS7, the answers to the final problem set.  Note that as
+promised, the applications to business decisions are quite direct, and you
+have a number of  opportunities on PS7 to demonstrate your understanding of
+economics without using mathematics.
+ This answer set will be discussed in section over the next 2 weeks.   Some
+of the material on Vertical Integration will be covered in class next
+week.  I thought it was worthwhile making sure you had all of this material
+in advance so you would have ample time to think about it before the final 
+exam.
+ - As7.pdf
+
+    Jonathan Leonard
+    Professor
+
+tel: 510-642-7048  545 Student Services Building, #1900
+fax: 510-642-4700  Haas School of Business
+    University of California
+    Berkeley, CA.  94720-1900","[{'word': 'Jonathan Leonard', 'tag': 'PERSON'}, {'word': 'over the next 2 weeks', 'tag': 'DATE'}, {'word': 'next week', 'tag': 'DATE'}, {'word': 'Berkeley', 'tag': 'LOCATION'}, {'word': 'CA', 'tag': 'LOCATION'}, {'word': 'Haas School of Business', 'tag': 'ORG'}, {'word': 'University of California', 'tag': 'ORG'}]","[('Jonathan Leonard', 'PERSON'), ('over the next 2 weeks', 'DATE'), ('next week', 'DATE'), ('Berkeley', 'LOCATION'), ('CA', 'LOCATION'), ('Haas School of Business', 'ORG'), ('University of California', 'ORG')]"
+<10642067.1075852626893.JavaMail.evans@thyme>,"Hey Jeff.  Have a favor to ask.  Trying to get clarification on the Enron
+balance sheet.  If you have some time can we speak about various aspects of
+the business?  I know you are busy, and not necessarily as familiar with the
+off balances sheet structures, but perhaps you could be of some assistance.
+I think your the smartest guy I know that still works there.  Maybe its your
+Penn roots.
+
+I am in Houston over Thanksgiving.  Perhaps we can finally get that long
+awaited drink you owe me!  If in London please give me a call.  I have a
+great place here you are welcome to crash at.
+
+
+Barry Steinhart
+HBV Capital Management
+49 St. James
+London SW1A 1JT
++44 (207) 5292386","[{'word': 'Jeff', 'tag': 'PERSON'}, {'word': 'Barry Steinhart', 'tag': 'PERSON'}, {'word': 'over Thanksgiving', 'tag': 'DATE'}, {'word': 'Houston', 'tag': 'LOCATION'}, {'word': 'London', 'tag': 'LOCATION'}, {'word': '49 St. James, London SW1A 1JT', 'tag': 'LOCATION'}, {'word': 'Enron', 'tag': 'ORG'}, {'word': 'HBV Capital Management', 'tag': 'ORG'}]","[('Jeff', 'PERSON'), ('Barry Steinhart', 'PERSON'), ('over Thanksgiving', 'DATE'), ('Houston', 'LOCATION'), ('London', 'LOCATION'), ('49 St. James, London SW1A 1JT', 'LOCATION'), ('Enron', 'ORG'), ('HBV Capital Management', 'ORG')]"
+<32988815.1075855746710.JavaMail.evans@thyme>,"Bob:  not too many new ones.
+
+1.  Continued to see increased volumes and transactions on desk.  As of 
+November, we have increased volumes to over 5 Bcf/day, up from about 2 
+Bcf/day last six month period.  We are continuing to handle month end close, 
+and get all volumes scheduled daily.
+
+2.  Continued to give support to the contract exchange project.  We have 
+given my time and the resources from the group.
+
+3.  Re-staffed the group after we lost some key, experienced personnel.  We 
+have the new guys up and running and hope to really make some things happen 
+from here on out.  
+
+If I think of any thing else I will let you know.  Thanks.","[{'word': 'Bob', 'tag': 'PERSON'}, {'word': 'November', 'tag': 'DATE'}, {'word': 'last six month period', 'tag': 'DATE'}]","[('Bob', 'PERSON'), ('November', 'DATE'), ('last six month period', 'DATE')]"
+<13260228.1075853193235.JavaMail.evans@thyme>,"Dave,
+
+Attached for your review is a draft of Portland General's objections and
+responses to the CPUC subpoena.  Please let me know if you have any
+questions or comments.
+
+ 
+Peter P. Meringolo
+Brobeck, Phleger & Harrison LLP
+Spear Tower
+One Market
+San Francisco, CA 94105
+Main:  (415) 442-0900
+Direct:  (415) 442-1285
+Fax:  (415) 442-1010
+
+
+This email message is for the sole use of the intended recipient(s) and may 
+contain confidential and privileged information. Any unauthorized review, 
+use, disclosure or distribution is prohibited. If you are not the intended 
+recipient, please contact the sender by reply email and destroy all copies of 
+the original message.
+
+To reply to our email administrator directly, send an email to 
+postmaster@brobeck.com
+BROBECK PHLEGER & HARRISON LLP
+http://www.brobeck.com
+
+
+
+ - 38KRY01!.DOC","[{'word': 'Dave', 'tag': 'PERSON'}, {'word': 'Peter P. Meringolo', 'tag': 'PERSON'}, {'word': 'Portland', 'tag': 'LOCATION'}, {'word': 'San Francisco', 'tag': 'LOCATION'}, {'word': 'CA', 'tag': 'LOCATION'}, {'word': 'Portland General', 'tag': 'ORG'}, {'word': 'CPUC', 'tag': 'ORG'}, {'word': 'Brobeck, Phleger & Harrison LLP', 'tag': 'ORG'}]","[('Dave', 'PERSON'), ('Peter P. Meringolo', 'PERSON'), ('Portland', 'LOCATION'), ('San Francisco', 'LOCATION'), ('CA', 'LOCATION'), ('Portland General', 'ORG'), ('CPUC', 'ORG'), ('Brobeck, Phleger & Harrison LLP', 'ORG')]"
+<23193709.1075860352366.JavaMail.evans@thyme>,"Greetings, members of the RTO West Stage 2 Tariff  Integration Group!
+?
+Attached to this e-mail please find an updated ""work  tracking document"" to 
+follow up on our March 21, 2001 Tariff Integration Group  meeting.? The 
+attached document is also posted on the RTO West Website at  the Tariff 
+Integration Group page, which is at:
+?
+http://208.55.67.64/Stage2TariffIntGrpMain.htm
+?
+At the end of the week after I have received a few items  from other members 
+of the group, I will post an updated version of the Tariff  working document 
+(including the work we did on the general provisions section at  the March 21 
+meeting).
+?
+Thank you very much!
+?
+- Sarah
+ - TIGR Work Tracking Doc March 26 2001.doc","[{'word': 'Sarah', 'tag': 'PERSON'}, {'word': 'March 21, 2001', 'tag': 'DATE'}, {'word': 'March 26 2001', 'tag': 'DATE'}, {'word': 'RTO West', 'tag': 'ORG'}]","[('Sarah', 'PERSON'), ('March 21, 2001', 'DATE'), ('March 26 2001', 'DATE'), ('RTO West', 'ORG')]"
+<3961350.1075845688806.JavaMail.evans@thyme>,"Kay:
+
+Attached is the execution draft of the ENA/PPL Letter Agreement.   Let me
+know if you need anything else.  Thanks.
+
+
+Carolyn M. Campbell
+King & Spalding
+713-276-7307 (phone)
+713-751-3280 (fax)
+ccampbell@kslaw.com 
+
+
+
+
+
+                    Confidentiality Notice
+This message is being sent by or on behalf of a lawyer.  It is intended 
+exclusively for the individual or entity to which it is addressed.  This 
+communication may contain information that is proprietary, privileged or 
+confidential or otherwise legally exempt from disclosure.  If you are not the 
+named addressee, you are not authorized to read, print, retain, copy or 
+disseminate this message or any part of it.  If you have received this 
+message in error, please notify the sender immediately by e-mail and delete 
+all copies of the message.
+
+
+ - Letter Agmt Enron Turbines Delta Power.DOC","[{'word': 'Kay', 'tag': 'PERSON'}, {'word': 'Carolyn M. Campbell', 'tag': 'PERSON'}, {'word': 'ENA/PPL', 'tag': 'ORG'}, {'word': 'King & Spalding', 'tag': 'ORG'}]","[('Kay', 'PERSON'), ('Carolyn M. Campbell', 'PERSON'), ('ENA/PPL', 'ORG'), ('King & Spalding', 'ORG')]"
+<10362969.1075847617896.JavaMail.evans@thyme>,"Steve - FYI, as discussed lst week, here is the statement we are issuing on 
+the so-called acceleration directives being considered in Stockholm this 
+week.  I suggested using Ken/Jeff/john Sherriff as the quoted, laudatory 
+official in the company, but the view seems to be that if we quote them, they 
+have to be up to speed to respond to other press inquiries, i.e., subsequent 
+inquiries cannot be deflected to more junior people like Peter or me.  Any 
+way, both an explanation of why we did not use Ken or Jeff, and fyi, what we 
+actually said is contained in the attached.   let me know if you have 
+questions or need more.  mcs","[{'word': 'Steve', 'tag': 'PERSON'}, {'word': 'Ken', 'tag': 'PERSON'}, {'word': 'Jeff', 'tag': 'PERSON'}, {'word': 'John Sherriff', 'tag': 'PERSON'}, {'word': 'Peter', 'tag': 'PERSON'}, {'word': 'mcs', 'tag': 'PERSON'}, {'word': 'lst week', 'tag': 'DATE'}, {'word': 'this week', 'tag': 'DATE'}, {'word': 'Stockholm', 'tag': 'LOCATION'}]","[('Steve', 'PERSON'), ('Ken', 'PERSON'), ('Jeff', 'PERSON'), ('John Sherriff', 'PERSON'), ('Peter', 'PERSON'), ('mcs', 'PERSON'), ('lst week', 'DATE'), ('this week', 'DATE'), ('Stockholm', 'LOCATION')]"
+<31058626.1075854493316.JavaMail.evans@thyme>,"Guys, we are working to put together the final team to manage this issue; 
+however, it isJeff Skilling's call to keep Delainey, Milnthorp and Keohane 
+out of the day to day fray on this issue.  I believe this is the right call.  
+Commercial and legal resources from Houston will manage this issue on a go 
+forward basis and may call on you as a resource if needed from time to time. 
+You have done a very great job managing this issue to date and your efforts 
+on that front are much appreciated.  Our focus should return to growing the 
+business and meeting our financial targets.
+
+Peter, I believe that Mark H. would like you to stay involved through the 
+Friday conference call that is scheduled.
+
+Regards
+Delainey","[{'word': 'Jeff Skilling', 'tag': 'PERSON'}, {'word': 'Delainey', 'tag': 'PERSON'}, {'word': 'Milnthorp', 'tag': 'PERSON'}, {'word': 'Keohane', 'tag': 'PERSON'}, {'word': 'Houston', 'tag': 'PERSON'}, {'word': 'Peter', 'tag': 'PERSON'}, {'word': 'Mark H.', 'tag': 'PERSON'}, {'word': 'Delainey', 'tag': 'PERSON'}]","[('Jeff Skilling', 'PERSON'), ('Delainey', 'PERSON'), ('Milnthorp', 'PERSON'), ('Keohane', 'PERSON'), ('Houston', 'PERSON'), ('Peter', 'PERSON'), ('Mark H.', 'PERSON'), ('Delainey', 'PERSON')]"
+<10689485.1075851883019.JavaMail.evans@thyme>,"?
+?
+?
+?
+?
+?
+?
+?
+Hi all, Merry Christmas.? I've had several  requests for the SHS email list.? 
+I'm not really very good at this computer  stuff.? The only way I could 
+figure out how to send?the addresses to  all that have requested them is to 
+send this little message?with?the  addresses attached.? I'm sure there is a 
+more ""techie"" and acceptable way  but...I am blonde now you know.? Once 
+again, Merry Christmas, Happy New  Year and most of all, God bless you richly 
+with wonderful friends, family and  His peace.? Love to you all...Diane
+ - Holiday Letter Bkgrd.gif","[{'word': 'Diane', 'tag': 'PERSON'}, {'word': 'Christmas', 'tag': 'DATE'}, {'word': 'New Year', 'tag': 'DATE'}]","[('Diane', 'PERSON'), ('Christmas', 'DATE'), ('New Year', 'DATE')]"
+<12019737.1075861047362.JavaMail.evans@thyme>,"March 13, 2002
+Notice No. NMS-22
+
+
+NOTICE OF INTENTION TO SWITCH QUALIFYING CLEARING MEMBER
+
+	Please be advised that effective immediately Man International, Inc.
+will no longer guarantee the following Member(s):
+
+Michael Cokeley (MICK-4575)
+David Kimmel (KIML-7149)
+Drew Smith (DISC-4458)
+Brian Smith (RDOG-3527)
+
+However, the above mentioned will remain a member(s) guaranteed by F.C.
+Stone, LLC.
+
+
+
+TRANSFER OF SOLE MEMBERSHIP
+
+Please be advised that effective with the close of business March 12, 2002,
+the following member(s) have given notice of intention to transfer their
+Sole membership:
+
+Edward Kuezek (FAST-3594
+Michael Geoghan (TALL-4393 )
+
+	Members and Member Firms have ten (10) days from the date of this
+notice to advise the Membership Department of any claims against the
+aforementioned Member(s).  Inquiries regarding this matter should be
+directed to the Membership Department at","[{'word': 'Michael Cokeley', 'tag': 'PERSON'}, {'word': 'David Kimmel', 'tag': 'PERSON'}, {'word': 'Drew Smith', 'tag': 'PERSON'}, {'word': 'Brian Smith', 'tag': 'PERSON'}, {'word': 'Edward Kuezek', 'tag': 'PERSON'}, {'word': 'Michael Geoghan', 'tag': 'PERSON'}, {'word': 'March 13, 2002', 'tag': 'DATE'}, {'word': 'March 12, 2002', 'tag': 'DATE'}, {'word': 'Man International, Inc.', 'tag': 'ORG'}, {'word': 'F.C. Stone, LLC.', 'tag': 'ORG'}]","[('Michael Cokeley', 'PERSON'), ('David Kimmel', 'PERSON'), ('Drew Smith', 'PERSON'), ('Brian Smith', 'PERSON'), ('Edward Kuezek', 'PERSON'), ('Michael Geoghan', 'PERSON'), ('March 13, 2002', 'DATE'), ('March 12, 2002', 'DATE'), ('Man International, Inc.', 'ORG'), ('F.C. Stone, LLC.', 'ORG')]"
+<31192798.1075842099616.JavaMail.evans@thyme>,"Steve:
+I am faxing you our remaining comments to the schedules.  Looks like the only 
+open points relate to :
+
+1. the additional cross-default language.  Have you had a chance to think 
+about what I e-mailed to you?
+
+2. DB, pursuant to our request, is considering refining the ""materially 
+weaker"" standard in Credit Event Upon Merger to specify a ratings test.
+
+3. Insertion of our Rider 7 into the ISDA Schedule regarding confirmation 
+procedures.
+
+4. DB reviewing LC language and our comments to the Enron Guaranty.  I guess 
+we still need to discuss the :defenses"" language because as I indicated to 
+you, I'm not sure that your compromise works for us.
+
+I look forward to hearing from you and sorry for the delay.
+
+Carol St. Clair
+EB 3892
+713-853-3989 (Phone)
+713-646-3393 (Fax)
+carol.st.clair@enron.com","[{'word': 'Steve', 'tag': 'PERSON'}, {'word': 'DB', 'tag': 'PERSON'}, {'word': 'Carol St. Clair', 'tag': 'PERSON'}, {'word': 'Enron', 'tag': 'ORG'}]","[('Steve', 'PERSON'), ('DB', 'PERSON'), ('Carol St. Clair', 'PERSON'), ('Enron', 'ORG')]"
+<28609896.1075861988637.JavaMail.evans@thyme>,"Mark,
+
+I spoke to the postmaster and she stated that the
+mailbox needs to be placed either to the side of the
+gate or outside of the gate.  She said that the main
+office does not like the fact that the postmasters
+have a key to a residence.  I don't know whether you
+have had the opportunity to speak with them yet.  If
+so, please disregard.
+
+Secondly, were you planning on having an electrician
+come do any work on your house?  If so, I would like
+to see if he/she can put a light in the bathroom as
+well as electrical outlets.
+
+I'll be awaiting your response.  Thanks!
+
+Veronica
+
+
+Do You Yahoo!?
+Find the one for you at Yahoo! Personals
+http://personals.yahoo.com","[{'word': 'Mark', 'tag': 'PERSON'}, {'word': 'Veronica', 'tag': 'PERSON'}]","[('Mark', 'PERSON'), ('Veronica', 'PERSON')]"
+<12936604.1075841300752.JavaMail.evans@thyme>,"Start Date: 1/20/02; HourAhead hour: 3;  HourAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+PARSING FILE  O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002012003.txt
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database","[{'word': '1/20/02', 'tag': 'DATE'}]","[('1/20/02', 'DATE')]"
