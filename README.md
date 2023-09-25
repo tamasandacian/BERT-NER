@@ -12,9 +12,8 @@ Furthermore, it is worth noting that this work has the potential for extension i
 2. Data Preprocessing
 3. Data Anotation
 4. Ground-truth creation
-5. Model Training
-6. Evaluation
-7. Model Prediction
+5. Model Training & Evaluation
+6. Model Prediction
 ```
 
 #### NER Tags
@@ -278,7 +277,8 @@ result = llm_chain.run(query)
 After labeling our dataset we end up with tokens labeled as PERSON 2337 times, ORG 1411 times, DATE 874 times and LOCATION 750 times.
 There were few instances where the model could not enclose the prediction output with curly braces "{ .. }". This was an easy fix as I could enclose the prediction within curly braces as a post-processing step.
 
-![image](https://github.com/tamasandacian/BERT-NER/assets/11573356/eb242908-7caf-425e-8d0f-c1fc69fd3e1f)
+<img width="1039" alt="image" src="https://github.com/tamasandacian/BERT-NER/assets/11573356/09b7f044-766d-4473-a22c-a1853d5cdcb9">
+
 
 #### 4.Ground-truth Creation
 
@@ -343,6 +343,152 @@ The following presents IOB label data distribution for train, validation and tes
 We did not include the "O" token as this would not show the labeled tokens as PERSON, LOCATION, ORG, and DATE in the chart
 representation.
 
-Most of the labeled tokens 
+<img width="1020" alt="image" src="https://github.com/tamasandacian/BERT-NER/assets/11573356/2eb1588c-5b5e-49dd-ab13-69b21c5b89fe">
 
-![image](https://github.com/tamasandacian/BERT-NER/assets/11573356/cd56e61f-834d-4339-98ae-839ad7dff61b)
+#### 5. Model Training & Model Evaluation
+
+##### Determining the baseline model
+
+For our baseline model we use a combination of machine learning algorithms, including Perceptron, Passive Aggressive Classifier, Naive Bayes Classifier, and SGD Classifier. We compare the results using F1-score metric.
+
+<img width="1059" alt="image" src="https://github.com/tamasandacian/BERT-NER/assets/11573356/1470e53a-60de-4193-ac03-18cd6f8859a7">
+
+<img width="1036" alt="image" src="https://github.com/tamasandacian/BERT-NER/assets/11573356/7610bb8e-fc5e-4bf2-934b-6af62458577e">
+
+Based on our results, the best model with F1-score is Passive Aggresive Classifier. This will be used to compare with the trained BERT model for NER.
+
+###### BERT
+
+Training an NER model using flairNLP is easy as we only need to provide the path to the generated train, validation and test .txt files.
+The trained model achieved a performance of 0.60% macro average F1-score. This was achieved after training the model for 10 iterations using recommended hyperaparameters such as: learning rate and batch size.
+
+After comparing the results with the baseline model we can see that BERT achieved higher performance than the baseline model.
+
+<img width="1037" alt="image" src="https://github.com/tamasandacian/BERT-NER/assets/11573356/e1b537e6-24f2-4a87-b42d-40c989c108be">
+
+#### 5. Model Prediction
+
+```python
+from flair.models import SequenceTagger
+from flair.data import Sentence
+
+# load the trained model with best F1-score
+model = SequenceTagger.load('models/taggers/ner/202309242015/final-model.pt')
+
+# Create utility function to predict entities in text
+
+def predict(text):
+    """
+    Function to predict entities
+    """
+    sentence = Sentence(text)
+
+    # predict tags and print
+    model.predict(sentence)
+
+    entities = []
+    for label in sentence.get_labels():
+        entity = dict()
+        entity["word"] = label.data_point.text
+        entity["label"] = label.value
+        entity["confidence"] = float("{0:.5f}".format(label.score))
+        entities.append(entity)
+
+    return entities
+
+##############################################################################
+sample_email = """
+Tina,
+
+Koch never returned my calls. Based on the contractual information, we may be 
+putting ourselves in a risk area by 'assigning' the deals without proper 
+documentation. The documentation that was supplied did not refence any ENA 
+agreements, nor any specific meter numbers. If the purchase was indeed a 
+meter/well sale; there should be documentation listing the meters acquired 
+and the effective date. Since we are apparently the supplier, the risk is not 
+as substaintial as if we were the purchaser. However, without documentation 
+we are basically relying on the relationship btw Koch & Duke.
+
+Cyndie
+ENA Global Contracts
+
+Tina Valadez@ECT
+"""
+predict(sample_email)
+[{'word': 'Tina', 'label': 'PERSON', 'confidence': 0.95944},
+ {'word': 'Koch', 'label': 'PERSON', 'confidence': 0.73476},
+ {'word': 'ENA', 'label': 'ORG', 'confidence': 0.92136},
+ {'word': 'Cyndie', 'label': 'PERSON', 'confidence': 0.61575},
+ {'word': 'ENA Global', 'label': 'ORG', 'confidence': 0.80697},
+ {'word': 'Tina Valadez', 'label': 'PERSON', 'confidence': 0.99369},
+ {'word': 'ECT', 'label': 'ORG', 'confidence': 0.96524}]
+
+##############################################################################
+sample_email = """
+Vince,
+
+  I agree with you that it's a lesson people need to learn
+over and over again.  I can't tell you how many politicians
+I met over the past year who really don't like markets and
+certainly don't understand how or why they work.  These
+aren't just the minor leaguers in Sacramento, but the big
+league players in Washington.
+
+  I also agree that the academic community can play "an important
+role in shaping public opinion and in explaining the logic of
+deregulation process."  I'd like to think that is in large
+part what I have been trying to do.
+
+Frank
+"""
+predict(sample_email)
+[{'word': 'Vince', 'label': 'PERSON', 'confidence': 0.99705},
+ {'word': 'Sacramento', 'label': 'LOCATION', 'confidence': 0.98591},
+ {'word': 'Washington', 'label': 'LOCATION', 'confidence': 0.8984},
+ {'word': 'Frank', 'label': 'PERSON', 'confidence': 0.9975}]
+
+############################################################################
+
+sample_email = """
+I wanted to follow-up with everyone following yesterday's meeting. 
+
+It appears to me that we need to develop (1) a better analysis of the four 
+market models - AGL (Steve M), Columbia of Ohio (Janine), Socal Gas (Jeff), 
+NICOR (Roy) - based on some key elements and (2) the key Influence parties in 
+Illinois with 5 layer Influence Circles that we need to be thinking about in 
+this discussion.
+
+It would be great if we could get this to Laura for distribution by end of 
+day Friday (realize it's tight).
+
+Key elements for Market Models 
+
+1. Direct Access Allowed?  For What customers?  What timeline?
+2. Upstream Capacity resolution - assignment or otherwise?  Are there assets 
+left to optimize
+3. Retail pricing - Fixed price vs. PBR (how?) vs. something else?
+4. Role of Wholesale Outsourcing Agent (would ENA sell to marketers or 
+utilities or both?)
+5. Other Issues
+
+Thanks,
+
+Jim
+"""
+predict(sample_email)
+[{'word': 'yesterday', 'label': 'DATE', 'confidence': 0.70943},
+ {'word': 'Steve', 'label': 'PERSON', 'confidence': 0.61155},
+ {'word': 'of', 'label': 'ORG', 'confidence': 0.85975},
+ {'word': 'Janine', 'label': 'PERSON', 'confidence': 0.95581},
+ {'word': 'Socal Gas', 'label': 'ORG', 'confidence': 0.80789},
+ {'word': 'Jeff', 'label': 'PERSON', 'confidence': 0.99384},
+ {'word': 'NICOR', 'label': 'PERSON', 'confidence': 0.96538},
+ {'word': 'Roy', 'label': 'PERSON', 'confidence': 0.99177},
+ {'word': 'Illinois', 'label': 'LOCATION', 'confidence': 0.97919},
+ {'word': 'Laura', 'label': 'PERSON', 'confidence': 0.99627},
+ {'word': 'end', 'label': 'DATE', 'confidence': 0.62944},
+ {'word': 'Friday', 'label': 'DATE', 'confidence': 0.64875},
+ {'word': 'ENA', 'label': 'ORG', 'confidence': 0.88702},
+ {'word': 'Jim', 'label': 'PERSON', 'confidence': 0.99733}]
+```
+
