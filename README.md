@@ -6,6 +6,9 @@ In this project, we establish a baseline model using a combination of machine le
 
 Furthermore, it is worth noting that this work has the potential for extension into the realm of multi-task learning problems. For instance, it could be expanded to encompass tasks such as NER and sentiment analysis.
 
+The trained BERT NER models and data can be found at the following Google Drive URL: https://drive.google.com/drive/folders/1jPOMp7B6wirjEAwfsY9yVaihO9dqj-1C?usp=sharing
+
+
 #### Project Outline:
 ```
 1. Exploratory Data Analysis (EDA)
