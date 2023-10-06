@@ -179,6 +179,16 @@ from langchain import FewShotPromptTemplate
 from langchain import PromptTemplate
 from langchain import LLMChain
 
+# Initialize llm object
+openai_api_key = "REPLACE_WITH_YOUR_OPENAI_API_KEY"
+
+llm = ChatOpenAI(
+    openai_api_key=openai_api_key,
+    model_name="gpt-3.5-turbo",
+    temperature=0,
+    max_tokens=2048
+)
+
 # create a example template
 example_template = """
 Email: {query}
